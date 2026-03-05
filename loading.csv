@@ -1,0 +1,1101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1772683812115,4057,simpli,200,OK,Thread Group 1-2,text,true,,532187,242,10,10,https://www.simplilearn.com/,34,0,16
+1772683812115,34,simpli-0,301,Moved Permanently,Thread Group 1-2,text,true,,569,121,10,10,http://www.simplilearn.com/,34,0,16
+1772683812149,4023,simpli-1,200,OK,Thread Group 1-2,text,true,,531618,121,10,10,https://www.simplilearn.com/,436,0,400
+1772683812020,6550,simpli,200,OK,Thread Group 1-1,text,true,,532186,242,10,10,https://www.simplilearn.com/,116,0,93
+1772683812020,121,simpli-0,301,Moved Permanently,Thread Group 1-1,text,true,,569,121,10,10,http://www.simplilearn.com/,116,0,93
+1772683812145,6425,simpli-1,200,OK,Thread Group 1-1,text,true,,531617,121,10,10,https://www.simplilearn.com/,426,0,404
+1772683812313,7218,simpli,200,OK,Thread Group 1-3,text,true,,532186,242,10,10,https://www.simplilearn.com/,29,0,14
+1772683812313,29,simpli-0,301,Moved Permanently,Thread Group 1-3,text,true,,569,121,10,10,http://www.simplilearn.com/,29,0,14
+1772683812343,7188,simpli-1,200,OK,Thread Group 1-3,text,true,,531617,121,10,10,https://www.simplilearn.com/,233,0,206
+1772683813510,7131,simpli,200,OK,Thread Group 1-9,text,true,,532186,242,10,10,https://www.simplilearn.com/,156,0,64
+1772683813510,157,simpli-0,301,Moved Permanently,Thread Group 1-9,text,true,,569,121,10,10,http://www.simplilearn.com/,156,0,64
+1772683813667,6974,simpli-1,200,OK,Thread Group 1-9,text,true,,531617,121,10,10,https://www.simplilearn.com/,431,0,180
+1772683813111,8744,simpli,200,OK,Thread Group 1-7,text,true,,532186,242,10,10,https://www.simplilearn.com/,151,0,75
+1772683813111,151,simpli-0,301,Moved Permanently,Thread Group 1-7,text,true,,569,121,10,10,http://www.simplilearn.com/,151,0,75
+1772683813263,8592,simpli-1,200,OK,Thread Group 1-7,text,true,,531617,121,10,10,https://www.simplilearn.com/,1616,0,1236
+1772683816177,5847,resources,200,OK,Thread Group 1-2,text,true,,312094,392,10,10,https://www.simplilearn.com/resources,93,0,0
+1772683816177,93,resources-0,301,Moved Permanently,Thread Group 1-2,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,93,0,0
+1772683816270,95,resources-1,301,Moved Permanently,Thread Group 1-2,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,95,0,0
+1772683816365,5659,resources-2,200,OK,Thread Group 1-2,text,true,,311064,130,10,10,https://www.simplilearn.com/resources,855,0,0
+1772683812715,10275,simpli,200,OK,Thread Group 1-5,text,true,,532186,242,10,10,https://www.simplilearn.com/,121,0,83
+1772683812715,121,simpli-0,301,Moved Permanently,Thread Group 1-5,text,true,,569,121,10,10,http://www.simplilearn.com/,121,0,83
+1772683812837,10153,simpli-1,200,OK,Thread Group 1-5,text,true,,531617,121,10,10,https://www.simplilearn.com/,342,0,99
+1772683812913,10386,simpli,200,OK,Thread Group 1-6,text,true,,532186,242,10,10,https://www.simplilearn.com/,1172,0,83
+1772683812913,1172,simpli-0,301,Moved Permanently,Thread Group 1-6,text,true,,569,121,10,10,http://www.simplilearn.com/,1172,0,83
+1772683814086,9213,simpli-1,200,OK,Thread Group 1-6,text,true,,531617,121,10,10,https://www.simplilearn.com/,921,0,495
+1772683813710,9603,simpli,200,OK,Thread Group 1-10,text,true,,532186,242,10,10,https://www.simplilearn.com/,151,0,85
+1772683813710,151,simpli-0,301,Moved Permanently,Thread Group 1-10,text,true,,569,121,10,10,http://www.simplilearn.com/,151,0,85
+1772683813862,9451,simpli-1,200,OK,Thread Group 1-10,text,true,,531617,121,10,10,https://www.simplilearn.com/,1542,0,1213
+1772683818570,4910,resources,200,OK,Thread Group 1-1,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,85,0,0
+1772683818570,85,resources-0,301,Moved Permanently,Thread Group 1-1,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,85,0,0
+1772683818655,86,resources-1,301,Moved Permanently,Thread Group 1-1,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,86,0,0
+1772683818741,4739,resources-2,200,OK,Thread Group 1-1,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,297,0,0
+1772683813309,10301,simpli,200,OK,Thread Group 1-8,text,true,,532187,242,10,10,https://www.simplilearn.com/,162,0,89
+1772683813309,162,simpli-0,301,Moved Permanently,Thread Group 1-8,text,true,,569,121,10,10,http://www.simplilearn.com/,162,0,89
+1772683813472,10138,simpli-1,200,OK,Thread Group 1-8,text,true,,531618,121,10,10,https://www.simplilearn.com/,392,0,154
+1772683819532,5016,resources,200,OK,Thread Group 1-3,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,93,0,0
+1772683819532,93,resources-0,301,Moved Permanently,Thread Group 1-3,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,93,0,0
+1772683819625,302,resources-1,301,Moved Permanently,Thread Group 1-3,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,302,0,0
+1772683819927,4621,resources-2,200,OK,Thread Group 1-3,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,874,0,0
+1772683812516,13437,simpli,200,OK,Thread Group 1-4,text,true,,532194,242,10,10,https://www.simplilearn.com/,32,0,16
+1772683812516,32,simpli-0,301,Moved Permanently,Thread Group 1-4,text,true,,569,121,10,10,http://www.simplilearn.com/,32,0,16
+1772683812549,13404,simpli-1,200,OK,Thread Group 1-4,text,true,,531625,121,10,10,https://www.simplilearn.com/,1966,0,1264
+1772683820641,5541,resources,200,OK,Thread Group 1-9,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,104,0,0
+1772683820641,104,resources-0,301,Moved Permanently,Thread Group 1-9,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,104,0,0
+1772683820745,90,resources-1,301,Moved Permanently,Thread Group 1-9,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,90,0,0
+1772683820835,5347,resources-2,200,OK,Thread Group 1-9,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,258,0,0
+1772683823299,4034,resources,200,OK,Thread Group 1-6,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,86,0,0
+1772683823299,87,resources-0,301,Moved Permanently,Thread Group 1-6,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,86,0,0
+1772683823386,78,resources-1,301,Moved Permanently,Thread Group 1-6,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,78,0,0
+1772683823464,3869,resources-2,200,OK,Thread Group 1-6,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,253,0,0
+1772683822991,5182,resources,200,OK,Thread Group 1-5,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,93,0,0
+1772683822991,93,resources-0,301,Moved Permanently,Thread Group 1-5,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,93,0,0
+1772683823084,95,resources-1,301,Moved Permanently,Thread Group 1-5,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,95,0,0
+1772683823179,4994,resources-2,200,OK,Thread Group 1-5,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,224,0,0
+1772683821855,6860,resources,200,OK,Thread Group 1-7,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,426,0,0
+1772683821855,426,resources-0,301,Moved Permanently,Thread Group 1-7,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,426,0,0
+1772683822281,92,resources-1,301,Moved Permanently,Thread Group 1-7,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,92,0,0
+1772683822373,6342,resources-2,200,OK,Thread Group 1-7,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,843,0,0
+1772683823313,7300,resources,200,OK,Thread Group 1-10,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,97,0,0
+1772683823313,97,resources-0,301,Moved Permanently,Thread Group 1-10,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,97,0,0
+1772683823410,75,resources-1,301,Moved Permanently,Thread Group 1-10,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,75,0,0
+1772683823485,7128,resources-2,200,OK,Thread Group 1-10,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,374,0,0
+1772683823611,7041,resources,200,OK,Thread Group 1-8,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,89,0,0
+1772683823611,89,resources-0,301,Moved Permanently,Thread Group 1-8,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,89,0,0
+1772683823700,89,resources-1,301,Moved Permanently,Thread Group 1-8,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,89,0,0
+1772683823789,6863,resources-2,200,OK,Thread Group 1-8,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,833,0,0
+1772683822024,9723,training,200,OK,Thread Group 1-2,text,true,,551495,419,10,10,https://www.simplilearn.com/corporate-training,94,0,0
+1772683822024,94,training-0,301,Moved Permanently,Thread Group 1-2,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,94,0,0
+1772683822118,79,training-1,301,Moved Permanently,Thread Group 1-2,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,79,0,0
+1772683822197,9550,training-2,200,OK,Thread Group 1-2,text,true,,549911,139,10,10,https://www.simplilearn.com/corporate-training,412,0,0
+1772683823481,8892,training,200,OK,Thread Group 1-1,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,92,0,0
+1772683823481,93,training-0,301,Moved Permanently,Thread Group 1-1,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,92,0,0
+1772683823574,92,training-1,301,Moved Permanently,Thread Group 1-1,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,92,0,0
+1772683823666,8707,training-2,200,OK,Thread Group 1-1,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,403,0,0
+1772683825954,6528,resources,200,OK,Thread Group 1-4,text,true,,312086,392,10,10,https://www.simplilearn.com/resources,95,0,0
+1772683825954,95,resources-0,301,Moved Permanently,Thread Group 1-4,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,95,0,0
+1772683826049,91,resources-1,301,Moved Permanently,Thread Group 1-4,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,91,0,0
+1772683826140,6342,resources-2,200,OK,Thread Group 1-4,text,true,,311056,130,10,10,https://www.simplilearn.com/resources,253,0,0
+1772683826182,8637,training,200,OK,Thread Group 1-9,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,98,0,0
+1772683826182,99,training-0,301,Moved Permanently,Thread Group 1-9,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,98,0,0
+1772683826281,94,training-1,301,Moved Permanently,Thread Group 1-9,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,94,0,0
+1772683826375,8444,training-2,200,OK,Thread Group 1-9,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,313,0,0
+1772683827334,7777,training,200,OK,Thread Group 1-6,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,456,0,0
+1772683827334,456,training-0,301,Moved Permanently,Thread Group 1-6,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,456,0,0
+1772683827790,93,training-1,301,Moved Permanently,Thread Group 1-6,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,93,0,0
+1772683827883,7228,training-2,200,OK,Thread Group 1-6,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,171,0,0
+1772683824549,11515,training,200,OK,Thread Group 1-3,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,94,0,0
+1772683824549,94,training-0,301,Moved Permanently,Thread Group 1-3,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,94,0,0
+1772683824643,89,training-1,301,Moved Permanently,Thread Group 1-3,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,89,0,0
+1772683824732,11332,training-2,200,OK,Thread Group 1-3,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,338,0,0
+1772683828715,8189,training,200,OK,Thread Group 1-7,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,95,0,0
+1772683828715,95,training-0,301,Moved Permanently,Thread Group 1-7,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,95,0,0
+1772683828810,98,training-1,301,Moved Permanently,Thread Group 1-7,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,98,0,0
+1772683828909,7995,training-2,200,OK,Thread Group 1-7,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,273,0,0
+1772683830652,8060,training,200,OK,Thread Group 1-8,text,true,,551496,419,10,10,https://www.simplilearn.com/corporate-training,435,0,0
+1772683830652,435,training-0,301,Moved Permanently,Thread Group 1-8,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,435,0,0
+1772683831088,467,training-1,301,Moved Permanently,Thread Group 1-8,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,467,0,0
+1772683831556,7156,training-2,200,OK,Thread Group 1-8,text,true,,549912,139,10,10,https://www.simplilearn.com/corporate-training,330,0,0
+1772683828174,10969,training,200,OK,Thread Group 1-5,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,87,0,0
+1772683828174,87,training-0,301,Moved Permanently,Thread Group 1-5,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,87,0,0
+1772683828261,94,training-1,301,Moved Permanently,Thread Group 1-5,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,94,0,0
+1772683828356,10787,training-2,200,OK,Thread Group 1-5,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,682,0,0
+1772683832373,8446,simpli,200,OK,Thread Group 1-1,text,true,,532186,242,10,10,https://www.simplilearn.com/,92,0,0
+1772683832373,92,simpli-0,301,Moved Permanently,Thread Group 1-1,text,true,,569,121,10,10,http://www.simplilearn.com/,92,0,0
+1772683832465,8354,simpli-1,200,OK,Thread Group 1-1,text,true,,531617,121,10,10,https://www.simplilearn.com/,409,0,0
+1772683836065,5815,simpli,200,OK,Thread Group 1-3,text,true,,532186,242,10,10,https://www.simplilearn.com/,81,0,0
+1772683836065,81,simpli-0,301,Moved Permanently,Thread Group 1-3,text,true,,569,121,10,10,http://www.simplilearn.com/,81,0,0
+1772683836146,5734,simpli-1,200,OK,Thread Group 1-3,text,true,,531617,121,10,10,https://www.simplilearn.com/,253,0,0
+1772683831747,10479,simpli,200,OK,Thread Group 1-2,text,true,,532187,242,10,10,https://www.simplilearn.com/,89,0,0
+1772683831747,89,simpli-0,301,Moved Permanently,Thread Group 1-2,text,true,,569,121,10,10,http://www.simplilearn.com/,89,0,0
+1772683831836,10390,simpli-1,200,OK,Thread Group 1-2,text,true,,531618,121,10,10,https://www.simplilearn.com/,1015,0,0
+1772683835112,8262,simpli,200,OK,Thread Group 1-6,text,true,,532186,242,10,10,https://www.simplilearn.com/,105,0,0
+1772683835112,105,simpli-0,301,Moved Permanently,Thread Group 1-6,text,true,,569,121,10,10,http://www.simplilearn.com/,105,0,0
+1772683835218,8156,simpli-1,200,OK,Thread Group 1-6,text,true,,531617,121,10,10,https://www.simplilearn.com/,341,0,0
+1772683832482,11521,training,200,OK,Thread Group 1-4,text,true,,551502,419,10,10,https://www.simplilearn.com/corporate-training,96,0,0
+1772683832482,96,training-0,301,Moved Permanently,Thread Group 1-4,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,96,0,0
+1772683832578,90,training-1,301,Moved Permanently,Thread Group 1-4,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,90,0,0
+1772683832668,11335,training-2,200,OK,Thread Group 1-4,text,true,,549918,139,10,10,https://www.simplilearn.com/corporate-training,419,0,0
+1772683834820,9395,simpli,200,OK,Thread Group 1-9,text,true,,532186,242,10,10,https://www.simplilearn.com/,92,0,0
+1772683834820,92,simpli-0,301,Moved Permanently,Thread Group 1-9,text,true,,569,121,10,10,http://www.simplilearn.com/,92,0,0
+1772683834913,9302,simpli-1,200,OK,Thread Group 1-9,text,true,,531617,121,10,10,https://www.simplilearn.com/,181,0,0
+1772683830619,13788,training,200,OK,Thread Group 1-10,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,96,0,0
+1772683830619,96,training-0,301,Moved Permanently,Thread Group 1-10,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,96,0,0
+1772683830715,96,training-1,301,Moved Permanently,Thread Group 1-10,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,96,0,0
+1772683830812,13595,training-2,200,OK,Thread Group 1-10,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,343,0,0
+1772683840819,5787,resources,200,OK,Thread Group 1-1,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,88,0,0
+1772683840819,88,resources-0,301,Moved Permanently,Thread Group 1-1,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,88,0,0
+1772683840907,84,resources-1,301,Moved Permanently,Thread Group 1-1,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,84,0,0
+1772683840992,5614,resources-2,200,OK,Thread Group 1-1,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,328,0,0
+1772683836904,9793,simpli,200,OK,Thread Group 1-7,text,true,,532186,242,10,10,https://www.simplilearn.com/,105,0,0
+1772683836904,105,simpli-0,301,Moved Permanently,Thread Group 1-7,text,true,,569,121,10,10,http://www.simplilearn.com/,105,0,0
+1772683837010,9687,simpli-1,200,OK,Thread Group 1-7,text,true,,531617,121,10,10,https://www.simplilearn.com/,324,0,0
+1772683842227,7045,resources,200,OK,Thread Group 1-2,text,true,,312055,392,10,10,https://www.simplilearn.com/resources,90,0,0
+1772683842227,90,resources-0,301,Moved Permanently,Thread Group 1-2,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,90,0,0
+1772683842317,225,resources-1,301,Moved Permanently,Thread Group 1-2,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,225,0,0
+1772683842542,6730,resources-2,200,OK,Thread Group 1-2,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,257,0,0
+1772683841880,7462,resources,200,OK,Thread Group 1-3,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,91,0,0
+1772683841880,91,resources-0,301,Moved Permanently,Thread Group 1-3,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,91,0,0
+1772683841971,88,resources-1,301,Moved Permanently,Thread Group 1-3,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,88,0,0
+1772683842059,7283,resources-2,200,OK,Thread Group 1-3,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,247,0,0
+1772683844216,5785,resources,200,OK,Thread Group 1-9,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,91,0,0
+1772683844216,91,resources-0,301,Moved Permanently,Thread Group 1-9,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,91,0,0
+1772683844307,96,resources-1,301,Moved Permanently,Thread Group 1-9,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,96,0,0
+1772683844404,5597,resources-2,200,OK,Thread Group 1-9,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,315,0,0
+1772683843374,7033,resources,200,OK,Thread Group 1-6,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,393,0,0
+1772683843374,393,resources-0,301,Moved Permanently,Thread Group 1-6,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,393,0,0
+1772683843767,71,resources-1,301,Moved Permanently,Thread Group 1-6,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,71,0,0
+1772683843838,6569,resources-2,200,OK,Thread Group 1-6,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,273,0,0
+1772683839144,11263,simpli,200,OK,Thread Group 1-5,text,true,,532186,242,10,10,https://www.simplilearn.com/,76,0,0
+1772683839144,76,simpli-0,301,Moved Permanently,Thread Group 1-5,text,true,,569,121,10,10,http://www.simplilearn.com/,76,0,0
+1772683839220,11187,simpli-1,200,OK,Thread Group 1-5,text,true,,531617,121,10,10,https://www.simplilearn.com/,656,0,0
+1772683838713,12738,simpli,200,OK,Thread Group 1-8,text,true,,532194,242,10,10,https://www.simplilearn.com/,81,0,0
+1772683838713,81,simpli-0,301,Moved Permanently,Thread Group 1-8,text,true,,569,121,10,10,http://www.simplilearn.com/,81,0,0
+1772683838794,12657,simpli-1,200,OK,Thread Group 1-8,text,true,,531625,121,10,10,https://www.simplilearn.com/,500,0,0
+1772683846697,5903,resources,200,OK,Thread Group 1-7,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,94,0,0
+1772683846697,94,resources-0,301,Moved Permanently,Thread Group 1-7,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,94,0,0
+1772683846791,90,resources-1,301,Moved Permanently,Thread Group 1-7,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,90,0,0
+1772683846881,5719,resources-2,200,OK,Thread Group 1-7,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,303,0,0
+1772683844004,8722,simpli,200,OK,Thread Group 1-4,text,true,,532187,242,10,10,https://www.simplilearn.com/,98,0,0
+1772683844004,98,simpli-0,301,Moved Permanently,Thread Group 1-4,text,true,,569,121,10,10,http://www.simplilearn.com/,98,0,0
+1772683844102,8624,simpli-1,200,OK,Thread Group 1-4,text,true,,531618,121,10,10,https://www.simplilearn.com/,456,0,0
+1772683846607,10760,training,200,OK,Thread Group 1-1,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,102,0,0
+1772683846607,103,training-0,301,Moved Permanently,Thread Group 1-1,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,102,0,0
+1772683846710,84,training-1,301,Moved Permanently,Thread Group 1-1,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,84,0,0
+1772683846794,10573,training-2,200,OK,Thread Group 1-1,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,310,0,0
+1772683844408,12997,simpli,200,OK,Thread Group 1-10,text,true,,532186,242,10,10,https://www.simplilearn.com/,91,0,0
+1772683844408,91,simpli-0,301,Moved Permanently,Thread Group 1-10,text,true,,569,121,10,10,http://www.simplilearn.com/,91,0,0
+1772683844499,12906,simpli-1,200,OK,Thread Group 1-10,text,true,,531617,121,10,10,https://www.simplilearn.com/,477,0,0
+1772683849271,13776,training,200,OK,Thread Group 1-2,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,87,0,0
+1772683849271,87,training-0,301,Moved Permanently,Thread Group 1-2,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,87,0,0
+1772683849358,356,training-1,301,Moved Permanently,Thread Group 1-2,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,356,0,0
+1772683849715,13332,training-2,200,OK,Thread Group 1-2,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,394,0,0
+1772683850406,13067,training,200,OK,Thread Group 1-6,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,103,0,0
+1772683850406,103,training-0,301,Moved Permanently,Thread Group 1-6,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,103,0,0
+1772683850509,76,training-1,301,Moved Permanently,Thread Group 1-6,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,76,0,0
+1772683850585,12888,training-2,200,OK,Thread Group 1-6,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,320,0,0
+1772683851450,12035,resources,200,OK,Thread Group 1-8,text,true,,312061,392,10,10,https://www.simplilearn.com/resources,93,0,0
+1772683851450,94,resources-0,301,Moved Permanently,Thread Group 1-8,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,93,0,0
+1772683851544,78,resources-1,301,Moved Permanently,Thread Group 1-8,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,78,0,0
+1772683851622,11863,resources-2,200,OK,Thread Group 1-8,text,true,,311031,130,10,10,https://www.simplilearn.com/resources,1968,0,0
+1772683852601,10901,training,200,OK,Thread Group 1-7,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,94,0,0
+1772683852601,94,training-0,301,Moved Permanently,Thread Group 1-7,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,94,0,0
+1772683852695,90,training-1,301,Moved Permanently,Thread Group 1-7,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,90,0,0
+1772683852785,10717,training-2,200,OK,Thread Group 1-7,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,1008,0,0
+1772683857406,6610,resources,200,OK,Thread Group 1-10,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,96,0,0
+1772683857406,96,resources-0,301,Moved Permanently,Thread Group 1-10,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,96,0,0
+1772683857502,215,resources-1,301,Moved Permanently,Thread Group 1-10,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,215,0,0
+1772683857717,6299,resources-2,200,OK,Thread Group 1-10,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,170,0,0
+1772683852727,11727,resources,200,OK,Thread Group 1-4,text,true,,312055,392,10,10,https://www.simplilearn.com/resources,99,0,0
+1772683852727,99,resources-0,301,Moved Permanently,Thread Group 1-4,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,99,0,0
+1772683852826,97,resources-1,301,Moved Permanently,Thread Group 1-4,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,97,0,0
+1772683852923,11531,resources-2,200,OK,Thread Group 1-4,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,474,0,0
+1772683850406,14504,resources,200,OK,Thread Group 1-5,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,103,0,0
+1772683850406,103,resources-0,301,Moved Permanently,Thread Group 1-5,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,103,0,0
+1772683850509,79,resources-1,301,Moved Permanently,Thread Group 1-5,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,79,0,0
+1772683850588,14322,resources-2,200,OK,Thread Group 1-5,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,1297,0,0
+1772683850001,16063,training,200,OK,Thread Group 1-9,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,100,0,0
+1772683850001,100,training-0,301,Moved Permanently,Thread Group 1-9,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,100,0,0
+1772683850101,93,training-1,301,Moved Permanently,Thread Group 1-9,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,93,0,0
+1772683850194,15870,training-2,200,OK,Thread Group 1-9,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,647,0,0
+1772683849342,19126,training,200,OK,Thread Group 1-3,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,369,0,0
+1772683849342,370,training-0,301,Moved Permanently,Thread Group 1-3,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,369,0,0
+1772683849712,90,training-1,301,Moved Permanently,Thread Group 1-3,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,90,0,0
+1772683849802,18666,training-2,200,OK,Thread Group 1-3,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,1303,0,0
+1772683857367,11521,simpli,200,OK,Thread Group 1-1,text,true,,532186,242,10,10,https://www.simplilearn.com/,93,0,0
+1772683857367,93,simpli-0,301,Moved Permanently,Thread Group 1-1,text,true,,569,121,10,10,http://www.simplilearn.com/,93,0,0
+1772683857461,11427,simpli-1,200,OK,Thread Group 1-1,text,true,,531617,121,10,10,https://www.simplilearn.com/,426,0,0
+1772683863502,9781,simpli,200,OK,Thread Group 1-7,text,true,,532186,242,10,10,https://www.simplilearn.com/,77,0,0
+1772683863502,77,simpli-0,301,Moved Permanently,Thread Group 1-7,text,true,,569,121,10,10,http://www.simplilearn.com/,77,0,0
+1772683863579,9704,simpli-1,200,OK,Thread Group 1-7,text,true,,531617,121,10,10,https://www.simplilearn.com/,536,0,0
+1772683863049,10728,simpli,200,OK,Thread Group 1-2,text,true,,532186,242,10,10,https://www.simplilearn.com/,111,0,0
+1772683863049,111,simpli-0,301,Moved Permanently,Thread Group 1-2,text,true,,569,121,10,10,http://www.simplilearn.com/,111,0,0
+1772683863160,10617,simpli-1,200,OK,Thread Group 1-2,text,true,,531617,121,10,10,https://www.simplilearn.com/,382,0,0
+1772683863474,11217,simpli,200,OK,Thread Group 1-6,text,true,,532186,242,10,10,https://www.simplilearn.com/,71,0,0
+1772683863474,71,simpli-0,301,Moved Permanently,Thread Group 1-6,text,true,,569,121,10,10,http://www.simplilearn.com/,71,0,0
+1772683863545,11146,simpli-1,200,OK,Thread Group 1-6,text,true,,531617,121,10,10,https://www.simplilearn.com/,222,0,0
+1772683863486,11330,training,200,OK,Thread Group 1-8,text,true,,551495,419,10,10,https://www.simplilearn.com/corporate-training,83,0,0
+1772683863486,83,training-0,301,Moved Permanently,Thread Group 1-8,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,83,0,0
+1772683863569,82,training-1,301,Moved Permanently,Thread Group 1-8,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,82,0,0
+1772683863651,11165,training-2,200,OK,Thread Group 1-8,text,true,,549911,139,10,10,https://www.simplilearn.com/corporate-training,330,0,0
+1772683864454,10937,training,200,OK,Thread Group 1-4,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,108,0,0
+1772683864454,108,training-0,301,Moved Permanently,Thread Group 1-4,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,108,0,0
+1772683864562,264,training-1,301,Moved Permanently,Thread Group 1-4,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,264,0,0
+1772683864827,10564,training-2,200,OK,Thread Group 1-4,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,522,0,0
+1772683868888,8970,resources,200,OK,Thread Group 1-1,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,355,0,0
+1772683868888,355,resources-0,301,Moved Permanently,Thread Group 1-1,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,355,0,0
+1772683869243,84,resources-1,301,Moved Permanently,Thread Group 1-1,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,84,0,0
+1772683869327,8531,resources-2,200,OK,Thread Group 1-1,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,394,0,0
+1772683864016,14870,training,200,OK,Thread Group 1-10,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,93,0,0
+1772683864016,93,training-0,301,Moved Permanently,Thread Group 1-10,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,93,0,0
+1772683864109,95,training-1,301,Moved Permanently,Thread Group 1-10,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,95,0,0
+1772683864205,14681,training-2,200,OK,Thread Group 1-10,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,559,0,0
+1772683868469,11115,simpli,200,OK,Thread Group 1-3,text,true,,532186,242,10,10,https://www.simplilearn.com/,96,0,0
+1772683868469,96,simpli-0,301,Moved Permanently,Thread Group 1-3,text,true,,569,121,10,10,http://www.simplilearn.com/,96,0,0
+1772683868565,11019,simpli-1,200,OK,Thread Group 1-3,text,true,,531617,121,10,10,https://www.simplilearn.com/,250,0,0
+1772683866064,14250,simpli,200,OK,Thread Group 1-9,text,true,,532186,242,10,10,https://www.simplilearn.com/,85,0,0
+1772683866064,85,simpli-0,301,Moved Permanently,Thread Group 1-9,text,true,,569,121,10,10,http://www.simplilearn.com/,85,0,0
+1772683866149,14165,simpli-1,200,OK,Thread Group 1-9,text,true,,531617,121,10,10,https://www.simplilearn.com/,774,0,0
+1772683874692,7261,resources,200,OK,Thread Group 1-6,text,true,,312055,392,10,10,https://www.simplilearn.com/resources,179,0,90
+1772683874692,179,resources-0,301,Moved Permanently,Thread Group 1-6,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,179,0,90
+1772683874871,276,resources-1,301,Moved Permanently,Thread Group 1-6,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,276,0,180
+1772683875147,6806,resources-2,200,OK,Thread Group 1-6,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,433,0,0
+1772683873285,10730,resources,200,OK,Thread Group 1-7,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,347,0,273
+1772683873285,347,resources-0,301,Moved Permanently,Thread Group 1-7,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,347,0,273
+1772683873632,1445,resources-1,301,Moved Permanently,Thread Group 1-7,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,1445,0,1353
+1772683875077,8938,resources-2,200,OK,Thread Group 1-7,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,1213,0,0
+1772683873779,10289,resources,200,OK,Thread Group 1-2,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,184,0,96
+1772683873779,184,resources-0,301,Moved Permanently,Thread Group 1-2,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,184,0,96
+1772683873963,261,resources-1,301,Moved Permanently,Thread Group 1-2,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,261,0,170
+1772683874224,9844,resources-2,200,OK,Thread Group 1-2,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,966,0,0
+1772683864911,19915,training,200,OK,Thread Group 1-5,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,87,0,0
+1772683864911,87,training-0,301,Moved Permanently,Thread Group 1-5,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,87,0,0
+1772683864998,74,training-1,301,Moved Permanently,Thread Group 1-5,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,74,0,0
+1772683865072,19754,training-2,200,OK,Thread Group 1-5,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,473,0,0
+1772683879584,8263,resources,200,OK,Thread Group 1-3,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,153,0,79
+1772683879584,153,resources-0,301,Moved Permanently,Thread Group 1-3,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,153,0,79
+1772683879737,1245,resources-1,301,Moved Permanently,Thread Group 1-3,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,1245,0,1164
+1772683880982,6865,resources-2,200,OK,Thread Group 1-3,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,337,0,0
+1772683880316,7734,resources,200,OK,Thread Group 1-9,text,true,,312055,392,10,10,https://www.simplilearn.com/resources,172,0,87
+1772683880316,172,resources-0,301,Moved Permanently,Thread Group 1-9,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,172,0,87
+1772683880488,437,resources-1,301,Moved Permanently,Thread Group 1-9,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,437,0,155
+1772683880926,7124,resources-2,200,OK,Thread Group 1-9,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,260,0,0
+1772683874817,14498,simpli,200,OK,Thread Group 1-8,text,true,,532186,242,10,10,https://www.simplilearn.com/,170,0,88
+1772683874817,170,simpli-0,301,Moved Permanently,Thread Group 1-8,text,true,,569,121,10,10,http://www.simplilearn.com/,170,0,88
+1772683874988,14327,simpli-1,200,OK,Thread Group 1-8,text,true,,531617,121,10,10,https://www.simplilearn.com/,2183,0,1368
+1772683875393,15149,simpli,200,OK,Thread Group 1-4,text,true,,532186,242,10,10,https://www.simplilearn.com/,1200,0,1108
+1772683875393,1200,simpli-0,301,Moved Permanently,Thread Group 1-4,text,true,,569,121,10,10,http://www.simplilearn.com/,1200,0,1108
+1772683876593,13949,simpli-1,200,OK,Thread Group 1-4,text,true,,531617,121,10,10,https://www.simplilearn.com/,526,0,201
+1772683878888,11693,simpli,200,OK,Thread Group 1-10,text,true,,532186,242,10,10,https://www.simplilearn.com/,182,0,89
+1772683878888,182,simpli-0,301,Moved Permanently,Thread Group 1-10,text,true,,569,121,10,10,http://www.simplilearn.com/,182,0,89
+1772683879071,11510,simpli-1,200,OK,Thread Group 1-10,text,true,,531617,121,10,10,https://www.simplilearn.com/,1611,0,1191
+1772683877858,12760,training,200,OK,Thread Group 1-1,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,160,0,67
+1772683877858,160,training-0,301,Moved Permanently,Thread Group 1-1,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,160,0,67
+1772683878018,274,training-1,301,Moved Permanently,Thread Group 1-1,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,274,0,189
+1772683878293,12325,training-2,200,OK,Thread Group 1-1,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,664,0,0
+1772683881953,13116,training,200,OK,Thread Group 1-6,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,84,0,0
+1772683881953,84,training-0,301,Moved Permanently,Thread Group 1-6,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,84,0,0
+1772683882037,93,training-1,301,Moved Permanently,Thread Group 1-6,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,93,0,0
+1772683882130,12938,training-2,200,OK,Thread Group 1-6,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,338,0,0
+1772683884826,12055,simpli,200,OK,Thread Group 1-5,text,true,,532186,242,10,10,https://www.simplilearn.com/,173,0,80
+1772683884826,173,simpli-0,301,Moved Permanently,Thread Group 1-5,text,true,,569,121,10,10,http://www.simplilearn.com/,173,0,80
+1772683884999,11882,simpli-1,200,OK,Thread Group 1-5,text,true,,531617,121,10,10,https://www.simplilearn.com/,448,0,194
+1772683889314,7589,resources,200,OK,Thread Group 1-8,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,112,0,0
+1772683889314,112,resources-0,301,Moved Permanently,Thread Group 1-8,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,112,0,0
+1772683889426,438,resources-1,301,Moved Permanently,Thread Group 1-8,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,438,0,0
+1772683889865,7038,resources-2,200,OK,Thread Group 1-8,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,253,0,0
+1772683890581,6886,resources,200,OK,Thread Group 1-10,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,90,0,0
+1772683890581,90,resources-0,301,Moved Permanently,Thread Group 1-10,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,90,0,0
+1772683890671,90,resources-1,301,Moved Permanently,Thread Group 1-10,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,90,0,0
+1772683890761,6706,resources-2,200,OK,Thread Group 1-10,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,338,0,0
+1772683884068,13569,training,200,OK,Thread Group 1-2,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,97,0,0
+1772683884068,97,training-0,301,Moved Permanently,Thread Group 1-2,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,97,0,0
+1772683884166,91,training-1,301,Moved Permanently,Thread Group 1-2,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,91,0,0
+1772683884257,13380,training-2,200,OK,Thread Group 1-2,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,377,0,0
+1772683884014,13694,training,200,OK,Thread Group 1-7,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,103,0,0
+1772683884014,103,training-0,301,Moved Permanently,Thread Group 1-7,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,103,0,0
+1772683884117,90,training-1,301,Moved Permanently,Thread Group 1-7,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,90,0,0
+1772683884207,13501,training-2,200,OK,Thread Group 1-7,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,333,0,0
+1772683890542,8788,resources,200,OK,Thread Group 1-4,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,102,0,0
+1772683890542,102,resources-0,301,Moved Permanently,Thread Group 1-4,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,102,0,0
+1772683890645,97,resources-1,301,Moved Permanently,Thread Group 1-4,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,97,0,0
+1772683890743,8587,resources-2,200,OK,Thread Group 1-4,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,496,0,0
+1772683888049,12131,training,200,OK,Thread Group 1-9,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,92,0,0
+1772683888049,92,training-0,301,Moved Permanently,Thread Group 1-9,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,92,0,0
+1772683888141,95,training-1,301,Moved Permanently,Thread Group 1-9,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,95,0,0
+1772683888236,11944,training-2,200,OK,Thread Group 1-9,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,257,0,0
+1772683896883,5681,resources,200,OK,Thread Group 1-5,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,81,0,0
+1772683896883,81,resources-0,301,Moved Permanently,Thread Group 1-5,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,81,0,0
+1772683896964,94,resources-1,301,Moved Permanently,Thread Group 1-5,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,94,0,0
+1772683897059,5505,resources-2,200,OK,Thread Group 1-5,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,428,0,0
+1772683887846,16593,training,200,OK,Thread Group 1-3,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,96,0,0
+1772683887846,96,training-0,301,Moved Permanently,Thread Group 1-3,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,96,0,0
+1772683887942,93,training-1,301,Moved Permanently,Thread Group 1-3,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,93,0,0
+1772683888035,16404,training-2,200,OK,Thread Group 1-3,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,322,0,0
+1772683895069,12961,simpli,200,OK,Thread Group 1-6,text,true,,532187,242,10,10,https://www.simplilearn.com/,106,0,0
+1772683895069,106,simpli-0,301,Moved Permanently,Thread Group 1-6,text,true,,569,121,10,10,http://www.simplilearn.com/,106,0,0
+1772683895175,12855,simpli-1,200,OK,Thread Group 1-6,text,true,,531618,121,10,10,https://www.simplilearn.com/,497,0,0
+1772683890617,17935,simpli,200,OK,Thread Group 1-1,text,true,,532186,242,10,10,https://www.simplilearn.com/,102,0,0
+1772683890617,102,simpli-0,301,Moved Permanently,Thread Group 1-1,text,true,,569,121,10,10,http://www.simplilearn.com/,102,0,0
+1772683890719,17833,simpli-1,200,OK,Thread Group 1-1,text,true,,531617,121,10,10,https://www.simplilearn.com/,651,0,0
+1772683900181,12514,simpli,200,OK,Thread Group 1-9,text,true,,532187,242,10,10,https://www.simplilearn.com/,94,0,0
+1772683900181,94,simpli-0,301,Moved Permanently,Thread Group 1-9,text,true,,569,121,10,10,http://www.simplilearn.com/,94,0,0
+1772683900275,12420,simpli-1,200,OK,Thread Group 1-9,text,true,,531618,121,10,10,https://www.simplilearn.com/,347,0,0
+1772683897468,15259,training,200,OK,Thread Group 1-10,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,482,0,0
+1772683897468,482,training-0,301,Moved Permanently,Thread Group 1-10,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,482,0,0
+1772683897950,93,training-1,301,Moved Permanently,Thread Group 1-10,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,93,0,0
+1772683898043,14684,training-2,200,OK,Thread Group 1-10,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,799,0,0
+1772683897638,15725,simpli,200,OK,Thread Group 1-2,text,true,,532186,242,10,10,https://www.simplilearn.com/,96,0,0
+1772683897638,96,simpli-0,301,Moved Permanently,Thread Group 1-2,text,true,,569,121,10,10,http://www.simplilearn.com/,96,0,0
+1772683897734,15629,simpli-1,200,OK,Thread Group 1-2,text,true,,531617,121,10,10,https://www.simplilearn.com/,755,0,0
+1772683896905,16468,training,200,OK,Thread Group 1-8,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,83,0,0
+1772683896905,83,training-0,301,Moved Permanently,Thread Group 1-8,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,83,0,0
+1772683896988,95,training-1,301,Moved Permanently,Thread Group 1-8,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,95,0,0
+1772683897083,16290,training-2,200,OK,Thread Group 1-8,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,572,0,0
+1772683908553,5360,resources,200,OK,Thread Group 1-1,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,101,0,0
+1772683908553,101,resources-0,301,Moved Permanently,Thread Group 1-1,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,101,0,0
+1772683908654,95,resources-1,301,Moved Permanently,Thread Group 1-1,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,95,0,0
+1772683908749,5164,resources-2,200,OK,Thread Group 1-1,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,247,0,0
+1772683897710,16919,simpli,200,OK,Thread Group 1-7,text,true,,532186,242,10,10,https://www.simplilearn.com/,108,0,0
+1772683897710,108,simpli-0,301,Moved Permanently,Thread Group 1-7,text,true,,569,121,10,10,http://www.simplilearn.com/,108,0,0
+1772683897818,16811,simpli-1,200,OK,Thread Group 1-7,text,true,,531617,121,10,10,https://www.simplilearn.com/,420,0,0
+1772683908030,8615,resources,200,OK,Thread Group 1-6,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,98,0,0
+1772683908030,98,resources-0,301,Moved Permanently,Thread Group 1-6,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,98,0,0
+1772683908128,82,resources-1,301,Moved Permanently,Thread Group 1-6,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,82,0,0
+1772683908210,8435,resources-2,200,OK,Thread Group 1-6,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,424,0,0
+1772683899331,18404,training,200,OK,Thread Group 1-4,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,102,0,0
+1772683899331,102,training-0,301,Moved Permanently,Thread Group 1-4,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,102,0,0
+1772683899433,376,training-1,301,Moved Permanently,Thread Group 1-4,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,376,0,0
+1772683899809,17926,training-2,200,OK,Thread Group 1-4,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,2121,0,0
+1772683904439,16303,simpli,200,OK,Thread Group 1-3,text,true,,532186,242,10,10,https://www.simplilearn.com/,96,0,0
+1772683904439,96,simpli-0,301,Moved Permanently,Thread Group 1-3,text,true,,569,121,10,10,http://www.simplilearn.com/,96,0,0
+1772683904535,16207,simpli-1,200,OK,Thread Group 1-3,text,true,,531617,121,10,10,https://www.simplilearn.com/,332,0,0
+1772683913363,7810,resources,200,OK,Thread Group 1-2,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,77,0,0
+1772683913363,77,resources-0,301,Moved Permanently,Thread Group 1-2,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,77,0,0
+1772683913440,470,resources-1,301,Moved Permanently,Thread Group 1-2,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,470,0,0
+1772683913911,7262,resources-2,200,OK,Thread Group 1-2,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,891,0,0
+1772683912695,8819,resources,200,OK,Thread Group 1-9,text,true,,312063,392,10,10,https://www.simplilearn.com/resources,103,0,0
+1772683912695,103,resources-0,301,Moved Permanently,Thread Group 1-9,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,103,0,0
+1772683912798,94,resources-1,301,Moved Permanently,Thread Group 1-9,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,94,0,0
+1772683912892,8622,resources-2,200,OK,Thread Group 1-9,text,true,,311033,130,10,10,https://www.simplilearn.com/resources,525,0,0
+1772683914629,7609,resources,200,OK,Thread Group 1-7,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,98,0,0
+1772683914629,98,resources-0,301,Moved Permanently,Thread Group 1-7,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,98,0,0
+1772683914727,90,resources-1,301,Moved Permanently,Thread Group 1-7,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,90,0,0
+1772683914818,7420,resources-2,200,OK,Thread Group 1-7,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,259,0,0
+1772683913373,9450,simpli,200,OK,Thread Group 1-8,text,true,,532186,242,10,10,https://www.simplilearn.com/,96,0,0
+1772683913373,96,simpli-0,301,Moved Permanently,Thread Group 1-8,text,true,,569,121,10,10,http://www.simplilearn.com/,96,0,0
+1772683913469,9354,simpli-1,200,OK,Thread Group 1-8,text,true,,531617,121,10,10,https://www.simplilearn.com/,325,0,0
+1772683913913,10016,training,200,OK,Thread Group 1-1,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,93,0,0
+1772683913913,93,training-0,301,Moved Permanently,Thread Group 1-1,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,93,0,0
+1772683914006,94,training-1,301,Moved Permanently,Thread Group 1-1,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,94,0,0
+1772683914101,9828,training-2,200,OK,Thread Group 1-1,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,260,0,0
+1772683902563,21456,training,200,OK,Thread Group 1-5,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,108,0,0
+1772683902563,108,training-0,301,Moved Permanently,Thread Group 1-5,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,108,0,0
+1772683902671,91,training-1,301,Moved Permanently,Thread Group 1-5,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,91,0,0
+1772683902763,21256,training-2,200,OK,Thread Group 1-5,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,373,0,0
+1772683920745,5875,resources,200,OK,Thread Group 1-3,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,108,0,0
+1772683920745,108,resources-0,301,Moved Permanently,Thread Group 1-3,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,108,0,0
+1772683920854,87,resources-1,301,Moved Permanently,Thread Group 1-3,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,87,0,0
+1772683920941,5679,resources-2,200,OK,Thread Group 1-3,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,628,0,0
+1772683916645,12423,training,200,OK,Thread Group 1-6,text,true,,551494,419,10,10,https://www.simplilearn.com/corporate-training,89,0,0
+1772683916645,89,training-0,301,Moved Permanently,Thread Group 1-6,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,89,0,0
+1772683916734,87,training-1,301,Moved Permanently,Thread Group 1-6,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,87,0,0
+1772683916822,12246,training-2,200,OK,Thread Group 1-6,text,true,,549910,139,10,10,https://www.simplilearn.com/corporate-training,264,0,0
+1772683917736,12212,simpli,200,OK,Thread Group 1-4,text,true,,532186,242,10,10,https://www.simplilearn.com/,93,0,0
+1772683917736,93,simpli-0,301,Moved Permanently,Thread Group 1-4,text,true,,569,121,10,10,http://www.simplilearn.com/,93,0,0
+1772683917829,12119,simpli-1,200,OK,Thread Group 1-4,text,true,,531617,121,10,10,https://www.simplilearn.com/,873,0,0
+1772683912726,17357,simpli,200,OK,Thread Group 1-10,text,true,,532186,242,10,10,https://www.simplilearn.com/,102,0,0
+1772683912726,102,simpli-0,301,Moved Permanently,Thread Group 1-10,text,true,,569,121,10,10,http://www.simplilearn.com/,102,0,0
+1772683912829,17254,simpli-1,200,OK,Thread Group 1-10,text,true,,531617,121,10,10,https://www.simplilearn.com/,2516,0,0
+1772683922825,7978,resources,200,OK,Thread Group 1-8,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,100,0,0
+1772683922825,100,resources-0,301,Moved Permanently,Thread Group 1-8,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,100,0,0
+1772683922925,84,resources-1,301,Moved Permanently,Thread Group 1-8,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,84,0,0
+1772683923009,7794,resources-2,200,OK,Thread Group 1-8,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,525,0,0
+1772683921515,10678,training,200,OK,Thread Group 1-9,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,83,0,0
+1772683921515,83,training-0,301,Moved Permanently,Thread Group 1-9,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,83,0,0
+1772683921598,98,training-1,301,Moved Permanently,Thread Group 1-9,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,98,0,0
+1772683921696,10497,training-2,200,OK,Thread Group 1-9,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,326,0,0
+1772683921174,11580,training,200,OK,Thread Group 1-2,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,91,0,0
+1772683921174,91,training-0,301,Moved Permanently,Thread Group 1-2,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,91,0,0
+1772683921265,96,training-1,301,Moved Permanently,Thread Group 1-2,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,96,0,0
+1772683921361,11393,training-2,200,OK,Thread Group 1-2,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,462,0,0
+1772683930084,6133,resources,200,OK,Thread Group 1-10,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,94,0,0
+1772683930084,94,resources-0,301,Moved Permanently,Thread Group 1-10,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,94,0,0
+1772683930179,93,resources-1,301,Moved Permanently,Thread Group 1-10,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,93,0,0
+1772683930273,5944,resources-2,200,OK,Thread Group 1-10,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,336,0,0
+1772683924020,13462,simpli,200,OK,Thread Group 1-5,text,true,,532186,242,10,10,https://www.simplilearn.com/,93,0,0
+1772683924020,93,simpli-0,301,Moved Permanently,Thread Group 1-5,text,true,,569,121,10,10,http://www.simplilearn.com/,93,0,0
+1772683924113,13369,simpli-1,200,OK,Thread Group 1-5,text,true,,531617,121,10,10,https://www.simplilearn.com/,387,0,0
+1772683929068,8480,simpli,200,OK,Thread Group 1-6,text,true,,532195,242,10,10,https://www.simplilearn.com/,104,0,0
+1772683929068,104,simpli-0,301,Moved Permanently,Thread Group 1-6,text,true,,569,121,10,10,http://www.simplilearn.com/,104,0,0
+1772683929172,8376,simpli-1,200,OK,Thread Group 1-6,text,true,,531626,121,10,10,https://www.simplilearn.com/,410,0,0
+1772683923931,13797,simpli,200,OK,Thread Group 1-1,text,true,,532186,242,10,10,https://www.simplilearn.com/,103,0,0
+1772683923931,103,simpli-0,301,Moved Permanently,Thread Group 1-1,text,true,,569,121,10,10,http://www.simplilearn.com/,103,0,0
+1772683924034,13694,simpli-1,200,OK,Thread Group 1-1,text,true,,531617,121,10,10,https://www.simplilearn.com/,460,0,0
+1772683929948,8472,resources,200,OK,Thread Group 1-4,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,100,0,0
+1772683929948,100,resources-0,301,Moved Permanently,Thread Group 1-4,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,100,0,0
+1772683930048,80,resources-1,301,Moved Permanently,Thread Group 1-4,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,80,0,0
+1772683930129,8291,resources-2,200,OK,Thread Group 1-4,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,559,0,0
+1772683922240,16590,training,200,OK,Thread Group 1-7,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,84,0,0
+1772683922240,84,training-0,301,Moved Permanently,Thread Group 1-7,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,84,0,0
+1772683922324,81,training-1,301,Moved Permanently,Thread Group 1-7,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,81,0,0
+1772683922405,16425,training-2,200,OK,Thread Group 1-7,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,686,0,0
+1772683926621,14845,training,200,OK,Thread Group 1-3,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,105,0,0
+1772683926621,105,training-0,301,Moved Permanently,Thread Group 1-3,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,105,0,0
+1772683926726,91,training-1,301,Moved Permanently,Thread Group 1-3,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,91,0,0
+1772683926818,14648,training-2,200,OK,Thread Group 1-3,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,259,0,0
+1772683932194,9309,simpli,200,OK,Thread Group 1-9,text,true,,532186,242,10,10,https://www.simplilearn.com/,135,0,0
+1772683932194,135,simpli-0,301,Moved Permanently,Thread Group 1-9,text,true,,569,121,10,10,http://www.simplilearn.com/,135,0,0
+1772683932330,9173,simpli-1,200,OK,Thread Group 1-9,text,true,,531617,121,10,10,https://www.simplilearn.com/,327,0,0
+1772683930802,11560,training,200,OK,Thread Group 1-8,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,104,0,0
+1772683930802,104,training-0,301,Moved Permanently,Thread Group 1-8,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,104,0,0
+1772683930907,99,training-1,301,Moved Permanently,Thread Group 1-8,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,99,0,0
+1772683931006,11356,training-2,200,OK,Thread Group 1-8,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,639,0,0
+1772683937549,5030,resources,200,OK,Thread Group 1-6,text,true,,312055,392,10,10,https://www.simplilearn.com/resources,405,0,279
+1772683937549,405,resources-0,301,Moved Permanently,Thread Group 1-6,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,405,0,279
+1772683937954,379,resources-1,301,Moved Permanently,Thread Group 1-6,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,379,0,268
+1772683938333,4246,resources-2,200,OK,Thread Group 1-6,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,530,0,0
+1772683937482,5822,resources,200,OK,Thread Group 1-5,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,118,0,0
+1772683937482,118,resources-0,301,Moved Permanently,Thread Group 1-5,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,118,0,0
+1772683937600,116,resources-1,301,Moved Permanently,Thread Group 1-5,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,116,0,0
+1772683937717,5587,resources-2,200,OK,Thread Group 1-5,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,362,0,0
+1772683937728,7139,resources,200,OK,Thread Group 1-1,text,true,,312054,392,10,10,https://www.simplilearn.com/resources,346,0,0
+1772683937728,347,resources-0,301,Moved Permanently,Thread Group 1-1,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,346,0,0
+1772683938075,357,resources-1,301,Moved Permanently,Thread Group 1-1,text,true,,451,131,10,10,https://www.simplilearn.com/resources/,357,0,241
+1772683938432,6435,resources-2,200,OK,Thread Group 1-1,text,true,,311024,130,10,10,https://www.simplilearn.com/resources,542,0,0
+1772683941503,3738,resources,200,OK,Thread Group 1-9,text,true,,312073,392,10,10,https://www.simplilearn.com/resources,241,0,118
+1772683941503,241,resources-0,301,Moved Permanently,Thread Group 1-9,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,241,0,118
+1772683941745,406,resources-1,301,Moved Permanently,Thread Group 1-9,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,406,0,267
+1772683942151,3090,resources-2,200,OK,Thread Group 1-9,text,true,,311042,130,10,10,https://www.simplilearn.com/resources,291,0,0
+1772683932754,15921,simpli,200,OK,Thread Group 1-2,text,true,,532186,242,10,10,https://www.simplilearn.com/,105,0,0
+1772683932754,105,simpli-0,301,Moved Permanently,Thread Group 1-2,text,true,,569,121,10,10,http://www.simplilearn.com/,105,0,0
+1772683932859,15816,simpli-1,200,OK,Thread Group 1-2,text,true,,531617,121,10,10,https://www.simplilearn.com/,265,0,0
+1772683941466,9983,simpli,200,OK,Thread Group 1-3,text,true,,532187,242,10,10,https://www.simplilearn.com/,251,0,119
+1772683941466,251,simpli-0,301,Moved Permanently,Thread Group 1-3,text,true,,569,121,10,10,http://www.simplilearn.com/,251,0,119
+1772683941718,9731,simpli-1,200,OK,Thread Group 1-3,text,true,,531618,121,10,10,https://www.simplilearn.com/,538,0,252
+1772683938830,15194,simpli,200,OK,Thread Group 1-7,text,true,,532187,242,10,10,https://www.simplilearn.com/,205,0,91
+1772683938830,205,simpli-0,301,Moved Permanently,Thread Group 1-7,text,true,,569,121,10,10,http://www.simplilearn.com/,205,0,91
+1772683939035,14989,simpli-1,200,OK,Thread Group 1-7,text,true,,531618,121,10,10,https://www.simplilearn.com/,1784,0,1331
+1772683942364,12381,simpli,200,OK,Thread Group 1-8,text,true,,532187,242,10,10,https://www.simplilearn.com/,235,0,109
+1772683942364,235,simpli-0,301,Moved Permanently,Thread Group 1-8,text,true,,569,121,10,10,http://www.simplilearn.com/,235,0,109
+1772683942600,12145,simpli-1,200,OK,Thread Group 1-8,text,true,,531618,121,10,10,https://www.simplilearn.com/,1787,0,1259
+1772683943305,11667,training,200,OK,Thread Group 1-5,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,393,0,0
+1772683943305,393,training-0,301,Moved Permanently,Thread Group 1-5,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,393,0,0
+1772683943698,130,training-1,301,Moved Permanently,Thread Group 1-5,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,130,0,0
+1772683943829,11143,training-2,200,OK,Thread Group 1-5,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,281,0,0
+1772683945243,10021,training,200,OK,Thread Group 1-9,text,true,,551505,419,10,10,https://www.simplilearn.com/corporate-training,118,0,0
+1772683945243,118,training-0,301,Moved Permanently,Thread Group 1-9,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,118,0,0
+1772683945361,130,training-1,301,Moved Permanently,Thread Group 1-9,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,130,0,0
+1772683945492,9772,training-2,200,OK,Thread Group 1-9,text,true,,549921,139,10,10,https://www.simplilearn.com/corporate-training,361,0,0
+1772683948675,6813,resources,200,OK,Thread Group 1-2,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,253,0,127
+1772683948675,253,resources-0,301,Moved Permanently,Thread Group 1-2,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,253,0,127
+1772683948928,372,resources-1,301,Moved Permanently,Thread Group 1-2,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,372,0,247
+1772683949300,6188,resources-2,200,OK,Thread Group 1-2,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,310,0,0
+1772683936219,20205,training,200,OK,Thread Group 1-10,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,138,0,0
+1772683936219,138,training-0,301,Moved Permanently,Thread Group 1-10,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,138,0,0
+1772683936357,125,training-1,301,Moved Permanently,Thread Group 1-10,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,125,0,0
+1772683936482,19942,training-2,200,OK,Thread Group 1-10,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,449,0,0
+1772683951452,6065,resources,200,OK,Thread Group 1-3,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,138,0,0
+1772683951452,138,resources-0,301,Moved Permanently,Thread Group 1-3,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,138,0,0
+1772683951590,119,resources-1,301,Moved Permanently,Thread Group 1-3,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,119,0,0
+1772683951709,5808,resources-2,200,OK,Thread Group 1-3,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,367,0,0
+1772683942581,15098,training,200,OK,Thread Group 1-6,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,127,0,0
+1772683942581,127,training-0,301,Moved Permanently,Thread Group 1-6,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,127,0,0
+1772683942709,122,training-1,301,Moved Permanently,Thread Group 1-6,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,122,0,0
+1772683942831,14848,training-2,200,OK,Thread Group 1-6,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,464,0,0
+1772683938421,19783,training,200,OK,Thread Group 1-4,text,true,,551486,419,10,10,https://www.simplilearn.com/corporate-training,1273,0,129
+1772683938421,1273,training-0,301,Moved Permanently,Thread Group 1-4,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,1273,0,129
+1772683939694,1411,training-1,301,Moved Permanently,Thread Group 1-4,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,1411,0,1293
+1772683941105,17099,training-2,200,OK,Thread Group 1-4,text,true,,549902,139,10,10,https://www.simplilearn.com/corporate-training,1636,0,0
+1772683954024,6023,resources,200,OK,Thread Group 1-7,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,115,0,0
+1772683954024,115,resources-0,301,Moved Permanently,Thread Group 1-7,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,115,0,0
+1772683954139,131,resources-1,301,Moved Permanently,Thread Group 1-7,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,131,0,0
+1772683954270,5777,resources-2,200,OK,Thread Group 1-7,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,232,0,0
+1772683944868,16020,training,200,OK,Thread Group 1-1,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,250,0,128
+1772683944868,250,training-0,301,Moved Permanently,Thread Group 1-1,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,250,0,128
+1772683945119,124,training-1,301,Moved Permanently,Thread Group 1-1,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,124,0,0
+1772683945243,15645,training-2,200,OK,Thread Group 1-1,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,447,0,0
+1772683954744,6400,resources,200,OK,Thread Group 1-8,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,139,0,0
+1772683954744,139,resources-0,301,Moved Permanently,Thread Group 1-8,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,139,0,0
+1772683954883,415,resources-1,301,Moved Permanently,Thread Group 1-8,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,415,0,0
+1772683955298,5846,resources-2,200,OK,Thread Group 1-8,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,384,0,0
+1772683955489,10596,training,200,OK,Thread Group 1-2,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,129,0,0
+1772683955489,129,training-0,301,Moved Permanently,Thread Group 1-2,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,129,0,0
+1772683955618,123,training-1,301,Moved Permanently,Thread Group 1-2,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,123,0,0
+1772683955742,10343,training-2,200,OK,Thread Group 1-2,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,434,0,0
+1772683955264,11684,simpli,200,OK,Thread Group 1-9,text,true,,532187,242,10,10,https://www.simplilearn.com/,101,0,0
+1772683955264,101,simpli-0,301,Moved Permanently,Thread Group 1-9,text,true,,569,121,10,10,http://www.simplilearn.com/,101,0,0
+1772683955366,11582,simpli-1,200,OK,Thread Group 1-9,text,true,,531618,121,10,10,https://www.simplilearn.com/,485,0,0
+1772683956424,12836,simpli,200,OK,Thread Group 1-10,text,true,,532187,242,10,10,https://www.simplilearn.com/,244,0,118
+1772683956424,244,simpli-0,301,Moved Permanently,Thread Group 1-10,text,true,,569,121,10,10,http://www.simplilearn.com/,244,0,118
+1772683956668,12592,simpli-1,200,OK,Thread Group 1-10,text,true,,531618,121,10,10,https://www.simplilearn.com/,552,0,261
+1772683958205,12537,simpli,200,OK,Thread Group 1-4,text,true,,532187,242,10,10,https://www.simplilearn.com/,122,0,0
+1772683958205,122,simpli-0,301,Moved Permanently,Thread Group 1-4,text,true,,569,121,10,10,http://www.simplilearn.com/,122,0,0
+1772683958328,12414,simpli-1,200,OK,Thread Group 1-4,text,true,,531618,121,10,10,https://www.simplilearn.com/,425,0,0
+1772683957519,13619,training,200,OK,Thread Group 1-3,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,130,0,0
+1772683957519,130,training-0,301,Moved Permanently,Thread Group 1-3,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,130,0,0
+1772683957649,122,training-1,301,Moved Permanently,Thread Group 1-3,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,122,0,0
+1772683957771,13367,training-2,200,OK,Thread Group 1-3,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,305,0,0
+1772683960049,11274,training,200,OK,Thread Group 1-7,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,134,0,0
+1772683960049,134,training-0,301,Moved Permanently,Thread Group 1-7,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,134,0,0
+1772683960183,125,training-1,301,Moved Permanently,Thread Group 1-7,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,125,0,0
+1772683960308,11015,training-2,200,OK,Thread Group 1-7,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,294,0,0
+1772683957679,14037,simpli,200,OK,Thread Group 1-6,text,true,,532353,242,10,10,https://www.simplilearn.com/,137,0,0
+1772683957679,137,simpli-0,301,Moved Permanently,Thread Group 1-6,text,true,,569,121,10,10,http://www.simplilearn.com/,137,0,0
+1772683957816,13900,simpli-1,200,OK,Thread Group 1-6,text,true,,531784,121,10,10,https://www.simplilearn.com/,741,0,0
+1772683961146,12247,training,200,OK,Thread Group 1-8,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,130,0,0
+1772683961146,130,training-0,301,Moved Permanently,Thread Group 1-8,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,130,0,0
+1772683961277,128,training-1,301,Moved Permanently,Thread Group 1-8,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,128,0,0
+1772683961405,11988,training-2,200,OK,Thread Group 1-8,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,443,0,0
+1772683966949,6638,resources,200,OK,Thread Group 1-9,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,141,0,0
+1772683966949,141,resources-0,301,Moved Permanently,Thread Group 1-9,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,141,0,0
+1772683967090,127,resources-1,301,Moved Permanently,Thread Group 1-9,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,127,0,0
+1772683967217,6370,resources-2,200,OK,Thread Group 1-9,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,580,0,0
+1772683969262,5935,resources,200,OK,Thread Group 1-10,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,122,0,0
+1772683969262,122,resources-0,301,Moved Permanently,Thread Group 1-10,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,122,0,0
+1772683969385,132,resources-1,301,Moved Permanently,Thread Group 1-10,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,132,0,0
+1772683969517,5680,resources-2,200,OK,Thread Group 1-10,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,216,0,0
+1772683954972,20468,simpli,200,OK,Thread Group 1-5,text,true,,532187,242,10,10,https://www.simplilearn.com/,240,0,113
+1772683954972,240,simpli-0,301,Moved Permanently,Thread Group 1-5,text,true,,569,121,10,10,http://www.simplilearn.com/,240,0,113
+1772683955212,20228,simpli-1,200,OK,Thread Group 1-5,text,true,,531618,121,10,10,https://www.simplilearn.com/,804,0,213
+1772683960889,16201,simpli,200,OK,Thread Group 1-1,text,true,,532187,242,10,10,https://www.simplilearn.com/,144,0,0
+1772683960889,145,simpli-0,301,Moved Permanently,Thread Group 1-1,text,true,,569,121,10,10,http://www.simplilearn.com/,144,0,0
+1772683961034,16056,simpli-1,200,OK,Thread Group 1-1,text,true,,531618,121,10,10,https://www.simplilearn.com/,425,0,0
+1772683970742,6414,resources,200,OK,Thread Group 1-4,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,363,0,0
+1772683970742,363,resources-0,301,Moved Permanently,Thread Group 1-4,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,363,0,0
+1772683971106,127,resources-1,301,Moved Permanently,Thread Group 1-4,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,126,0,0
+1772683971233,5923,resources-2,200,OK,Thread Group 1-4,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,932,0,0
+1772683971716,8624,resources,200,OK,Thread Group 1-6,text,true,,312064,392,10,10,https://www.simplilearn.com/resources,138,0,0
+1772683971716,138,resources-0,301,Moved Permanently,Thread Group 1-6,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,138,0,0
+1772683971854,132,resources-1,301,Moved Permanently,Thread Group 1-6,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,132,0,0
+1772683971986,8354,resources-2,200,OK,Thread Group 1-6,text,true,,311033,130,10,10,https://www.simplilearn.com/resources,463,0,0
+1772683975442,5512,resources,200,OK,Thread Group 1-5,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,114,0,0
+1772683975442,114,resources-0,301,Moved Permanently,Thread Group 1-5,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,114,0,0
+1772683975556,131,resources-1,301,Moved Permanently,Thread Group 1-5,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,131,0,0
+1772683975687,5267,resources-2,200,OK,Thread Group 1-5,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,472,0,0
+1772683971323,10998,simpli,200,OK,Thread Group 1-7,text,true,,532187,242,10,10,https://www.simplilearn.com/,418,0,0
+1772683971323,418,simpli-0,301,Moved Permanently,Thread Group 1-7,text,true,,569,121,10,10,http://www.simplilearn.com/,418,0,0
+1772683971741,10580,simpli-1,200,OK,Thread Group 1-7,text,true,,531618,121,10,10,https://www.simplilearn.com/,578,0,0
+1772683977091,5450,resources,200,OK,Thread Group 1-1,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,125,0,0
+1772683977091,126,resources-0,301,Moved Permanently,Thread Group 1-1,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,125,0,0
+1772683977217,125,resources-1,301,Moved Permanently,Thread Group 1-1,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,125,0,0
+1772683977342,5199,resources-2,200,OK,Thread Group 1-1,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,916,0,0
+1772683966086,16539,simpli,200,OK,Thread Group 1-2,text,true,,532187,242,10,10,https://www.simplilearn.com/,1210,0,0
+1772683966086,1210,simpli-0,301,Moved Permanently,Thread Group 1-2,text,true,,569,121,10,10,http://www.simplilearn.com/,1210,0,0
+1772683967296,15329,simpli-1,200,OK,Thread Group 1-2,text,true,,531618,121,10,10,https://www.simplilearn.com/,1076,0,0
+1772683971139,12854,simpli,200,OK,Thread Group 1-3,text,true,,532187,242,10,10,https://www.simplilearn.com/,141,0,0
+1772683971139,141,simpli-0,301,Moved Permanently,Thread Group 1-3,text,true,,569,121,10,10,http://www.simplilearn.com/,141,0,0
+1772683971280,12713,simpli-1,200,OK,Thread Group 1-3,text,true,,531618,121,10,10,https://www.simplilearn.com/,347,0,0
+1772683973393,11377,simpli,200,OK,Thread Group 1-8,text,true,,532187,242,10,10,https://www.simplilearn.com/,137,0,0
+1772683973393,137,simpli-0,301,Moved Permanently,Thread Group 1-8,text,true,,569,121,10,10,http://www.simplilearn.com/,137,0,0
+1772683973531,11239,simpli-1,200,OK,Thread Group 1-8,text,true,,531618,121,10,10,https://www.simplilearn.com/,496,0,0
+1772683973587,11638,training,200,OK,Thread Group 1-9,text,true,,551488,419,10,10,https://www.simplilearn.com/corporate-training,130,0,0
+1772683973587,130,training-0,301,Moved Permanently,Thread Group 1-9,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,130,0,0
+1772683973717,130,training-1,301,Moved Permanently,Thread Group 1-9,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,130,0,0
+1772683973847,11378,training-2,200,OK,Thread Group 1-9,text,true,,549904,139,10,10,https://www.simplilearn.com/corporate-training,646,0,0
+1772683975197,10454,training,200,OK,Thread Group 1-10,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,131,0,0
+1772683975197,131,training-0,301,Moved Permanently,Thread Group 1-10,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,131,0,0
+1772683975328,127,training-1,301,Moved Permanently,Thread Group 1-10,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,127,0,0
+1772683975456,10195,training-2,200,OK,Thread Group 1-10,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,264,0,0
+1772683977156,11533,training,200,OK,Thread Group 1-4,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,115,0,0
+1772683977156,115,training-0,301,Moved Permanently,Thread Group 1-4,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,115,0,0
+1772683977272,120,training-1,301,Moved Permanently,Thread Group 1-4,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,120,0,0
+1772683977392,11297,training-2,200,OK,Thread Group 1-4,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,284,0,0
+1772683983992,5285,resources,200,OK,Thread Group 1-3,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,131,0,0
+1772683983992,131,resources-0,301,Moved Permanently,Thread Group 1-3,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,131,0,0
+1772683984123,120,resources-1,301,Moved Permanently,Thread Group 1-3,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,120,0,0
+1772683984243,5034,resources-2,200,OK,Thread Group 1-3,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,364,0,0
+1772683982321,8229,resources,200,OK,Thread Group 1-7,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,139,0,0
+1772683982321,139,resources-0,301,Moved Permanently,Thread Group 1-7,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,139,0,0
+1772683982461,118,resources-1,301,Moved Permanently,Thread Group 1-7,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,118,0,0
+1772683982579,7971,resources-2,200,OK,Thread Group 1-7,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,821,0,0
+1772683982625,8863,resources,200,OK,Thread Group 1-2,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,133,0,0
+1772683982625,133,resources-0,301,Moved Permanently,Thread Group 1-2,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,133,0,0
+1772683982758,123,resources-1,301,Moved Permanently,Thread Group 1-2,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,123,0,0
+1772683982881,8607,resources-2,200,OK,Thread Group 1-2,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,620,0,0
+1772683982541,9839,training,200,OK,Thread Group 1-1,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,123,0,0
+1772683982541,123,training-0,301,Moved Permanently,Thread Group 1-1,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,123,0,0
+1772683982664,128,training-1,301,Moved Permanently,Thread Group 1-1,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,128,0,0
+1772683982792,9588,training-2,200,OK,Thread Group 1-1,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,685,0,0
+1772683980341,12947,training,200,OK,Thread Group 1-6,text,true,,551488,419,10,10,https://www.simplilearn.com/corporate-training,124,0,0
+1772683980341,124,training-0,301,Moved Permanently,Thread Group 1-6,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,124,0,0
+1772683980465,133,training-1,301,Moved Permanently,Thread Group 1-6,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,133,0,0
+1772683980598,12690,training-2,200,OK,Thread Group 1-6,text,true,,549904,139,10,10,https://www.simplilearn.com/corporate-training,538,0,0
+1772683980954,13133,training,200,OK,Thread Group 1-5,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,119,0,0
+1772683980954,119,training-0,301,Moved Permanently,Thread Group 1-5,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,119,0,0
+1772683981073,124,training-1,301,Moved Permanently,Thread Group 1-5,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,124,0,0
+1772683981197,12890,training-2,200,OK,Thread Group 1-5,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,487,0,0
+1772683984769,9799,resources,200,OK,Thread Group 1-8,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,113,0,0
+1772683984769,113,resources-0,301,Moved Permanently,Thread Group 1-8,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,113,0,0
+1772683984882,124,resources-1,301,Moved Permanently,Thread Group 1-8,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,124,0,0
+1772683985006,9562,resources-2,200,OK,Thread Group 1-8,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,367,0,0
+1772683985225,9834,simpli,200,OK,Thread Group 1-9,text,true,,532187,242,10,10,https://www.simplilearn.com/,136,0,0
+1772683985225,136,simpli-0,301,Moved Permanently,Thread Group 1-9,text,true,,569,121,10,10,http://www.simplilearn.com/,136,0,0
+1772683985362,9697,simpli-1,200,OK,Thread Group 1-9,text,true,,531618,121,10,10,https://www.simplilearn.com/,382,0,0
+1772683985651,13354,simpli,200,OK,Thread Group 1-10,text,true,,532187,242,10,10,https://www.simplilearn.com/,124,0,0
+1772683985651,124,simpli-0,301,Moved Permanently,Thread Group 1-10,text,true,,569,121,10,10,http://www.simplilearn.com/,124,0,0
+1772683985776,13229,simpli-1,200,OK,Thread Group 1-10,text,true,,531618,121,10,10,https://www.simplilearn.com/,651,0,0
+1772683988689,10532,simpli,200,OK,Thread Group 1-4,text,true,,532187,242,10,10,https://www.simplilearn.com/,130,0,0
+1772683988689,130,simpli-0,301,Moved Permanently,Thread Group 1-4,text,true,,569,121,10,10,http://www.simplilearn.com/,130,0,0
+1772683988819,10402,simpli-1,200,OK,Thread Group 1-4,text,true,,531618,121,10,10,https://www.simplilearn.com/,189,0,0
+1772683990552,9140,training,200,OK,Thread Group 1-7,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,143,0,0
+1772683990552,143,training-0,301,Moved Permanently,Thread Group 1-7,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,143,0,0
+1772683990695,133,training-1,301,Moved Permanently,Thread Group 1-7,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,133,0,0
+1772683990828,8864,training-2,200,OK,Thread Group 1-7,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,476,0,0
+1772683995059,5832,resources,200,OK,Thread Group 1-9,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,132,0,0
+1772683995059,132,resources-0,301,Moved Permanently,Thread Group 1-9,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,132,0,0
+1772683995192,126,resources-1,301,Moved Permanently,Thread Group 1-9,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,126,0,0
+1772683995318,5573,resources-2,200,OK,Thread Group 1-9,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,278,0,0
+1772683989279,12302,training,200,OK,Thread Group 1-3,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,137,0,0
+1772683989279,137,training-0,301,Moved Permanently,Thread Group 1-3,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,137,0,0
+1772683989416,127,training-1,301,Moved Permanently,Thread Group 1-3,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,127,0,0
+1772683989543,12038,training-2,200,OK,Thread Group 1-3,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,440,0,0
+1772683992381,10886,simpli,200,OK,Thread Group 1-1,text,true,,532187,242,10,10,https://www.simplilearn.com/,133,0,0
+1772683992381,134,simpli-0,301,Moved Permanently,Thread Group 1-1,text,true,,569,121,10,10,http://www.simplilearn.com/,133,0,0
+1772683992515,10752,simpli-1,200,OK,Thread Group 1-1,text,true,,531618,121,10,10,https://www.simplilearn.com/,446,0,0
+1772683994087,9363,simpli,200,OK,Thread Group 1-5,text,true,,532187,242,10,10,https://www.simplilearn.com/,133,0,0
+1772683994087,133,simpli-0,301,Moved Permanently,Thread Group 1-5,text,true,,569,121,10,10,http://www.simplilearn.com/,133,0,0
+1772683994220,9230,simpli-1,200,OK,Thread Group 1-5,text,true,,531618,121,10,10,https://www.simplilearn.com/,376,0,0
+1772683999005,5933,resources,200,OK,Thread Group 1-10,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,126,0,0
+1772683999005,126,resources-0,301,Moved Permanently,Thread Group 1-10,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,126,0,0
+1772683999131,120,resources-1,301,Moved Permanently,Thread Group 1-10,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,120,0,0
+1772683999251,5687,resources-2,200,OK,Thread Group 1-10,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,320,0,0
+1772683993288,12413,simpli,200,OK,Thread Group 1-6,text,true,,532195,242,10,10,https://www.simplilearn.com/,138,0,0
+1772683993288,138,simpli-0,301,Moved Permanently,Thread Group 1-6,text,true,,569,121,10,10,http://www.simplilearn.com/,138,0,0
+1772683993426,12275,simpli-1,200,OK,Thread Group 1-6,text,true,,531626,121,10,10,https://www.simplilearn.com/,370,0,0
+1772683991489,14576,training,200,OK,Thread Group 1-2,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,135,0,0
+1772683991489,135,training-0,301,Moved Permanently,Thread Group 1-2,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,135,0,0
+1772683991625,116,training-1,301,Moved Permanently,Thread Group 1-2,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,116,0,0
+1772683991742,14323,training-2,200,OK,Thread Group 1-2,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,1323,0,0
+1772683999220,9149,resources,200,OK,Thread Group 1-4,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,581,0,457
+1772683999220,581,resources-0,301,Moved Permanently,Thread Group 1-4,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,581,0,457
+1772683999801,390,resources-1,301,Moved Permanently,Thread Group 1-4,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,390,0,258
+1772684000191,8178,resources-2,200,OK,Thread Group 1-4,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,297,0,0
+1772683994568,14229,training,200,OK,Thread Group 1-8,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,128,0,0
+1772683994568,128,training-0,301,Moved Permanently,Thread Group 1-8,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,128,0,0
+1772683994696,128,training-1,301,Moved Permanently,Thread Group 1-8,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,128,0,0
+1772683994824,13973,training-2,200,OK,Thread Group 1-8,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,647,0,0
+1772683999691,9289,simpli,200,OK,Thread Group 1-7,text,true,,532187,242,10,10,https://www.simplilearn.com/,253,0,124
+1772683999691,253,simpli-0,301,Moved Permanently,Thread Group 1-7,text,true,,569,121,10,10,http://www.simplilearn.com/,253,0,124
+1772683999944,9036,simpli-1,200,OK,Thread Group 1-7,text,true,,531618,121,10,10,https://www.simplilearn.com/,656,0,257
+1772684003269,7008,resources,200,OK,Thread Group 1-1,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,125,0,0
+1772684003269,125,resources-0,301,Moved Permanently,Thread Group 1-1,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,125,0,0
+1772684003394,632,resources-1,301,Moved Permanently,Thread Group 1-1,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,632,0,264
+1772684004026,6251,resources-2,200,OK,Thread Group 1-1,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,301,0,0
+1772684003451,8451,resources,200,OK,Thread Group 1-5,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,135,0,0
+1772684003451,135,resources-0,301,Moved Permanently,Thread Group 1-5,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,135,0,0
+1772684003586,125,resources-1,301,Moved Permanently,Thread Group 1-5,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,125,0,0
+1772684003711,8191,resources-2,200,OK,Thread Group 1-5,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,365,0,0
+1772684001581,11470,simpli,200,OK,Thread Group 1-3,text,true,,532187,242,10,10,https://www.simplilearn.com/,261,0,130
+1772684001581,261,simpli-0,301,Moved Permanently,Thread Group 1-3,text,true,,569,121,10,10,http://www.simplilearn.com/,261,0,130
+1772684001842,11209,simpli-1,200,OK,Thread Group 1-3,text,true,,531618,121,10,10,https://www.simplilearn.com/,686,0,229
+1772684000891,13309,training,200,OK,Thread Group 1-9,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,121,0,0
+1772684000891,121,training-0,301,Moved Permanently,Thread Group 1-9,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,121,0,0
+1772684001013,131,training-1,301,Moved Permanently,Thread Group 1-9,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,131,0,0
+1772684001144,13056,training-2,200,OK,Thread Group 1-9,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,511,0,0
+1772684005703,8606,resources,200,OK,Thread Group 1-6,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,259,0,130
+1772684005703,259,resources-0,301,Moved Permanently,Thread Group 1-6,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,259,0,130
+1772684005962,361,resources-1,301,Moved Permanently,Thread Group 1-6,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,361,0,230
+1772684006323,7986,resources-2,200,OK,Thread Group 1-6,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,506,0,0
+1772684008982,6524,resources,200,OK,Thread Group 1-7,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,134,0,0
+1772684008982,134,resources-0,301,Moved Permanently,Thread Group 1-7,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,134,0,0
+1772684009116,131,resources-1,301,Moved Permanently,Thread Group 1-7,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,131,0,0
+1772684009247,6259,resources-2,200,OK,Thread Group 1-7,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,425,0,0
+1772684006065,11173,simpli,200,OK,Thread Group 1-2,text,true,,532187,242,10,10,https://www.simplilearn.com/,119,0,0
+1772684006065,119,simpli-0,301,Moved Permanently,Thread Group 1-2,text,true,,569,121,10,10,http://www.simplilearn.com/,119,0,0
+1772684006184,11054,simpli-1,200,OK,Thread Group 1-2,text,true,,531618,121,10,10,https://www.simplilearn.com/,516,0,0
+1772684008371,9369,training,200,OK,Thread Group 1-4,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,130,0,0
+1772684008371,130,training-0,301,Moved Permanently,Thread Group 1-4,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,130,0,0
+1772684008501,126,training-1,301,Moved Permanently,Thread Group 1-4,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,126,0,0
+1772684008627,9113,training-2,200,OK,Thread Group 1-4,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,418,0,0
+1772684004939,13568,training,200,OK,Thread Group 1-10,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,136,0,0
+1772684004939,136,training-0,301,Moved Permanently,Thread Group 1-10,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,136,0,0
+1772684005075,126,training-1,301,Moved Permanently,Thread Group 1-10,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,126,0,0
+1772684005202,13305,training-2,200,OK,Thread Group 1-10,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,449,0,0
+1772684008798,10930,simpli,200,OK,Thread Group 1-8,text,true,,532187,242,10,10,https://www.simplilearn.com/,242,0,125
+1772684008798,242,simpli-0,301,Moved Permanently,Thread Group 1-8,text,true,,569,121,10,10,http://www.simplilearn.com/,242,0,125
+1772684009040,10688,simpli-1,200,OK,Thread Group 1-8,text,true,,531618,121,10,10,https://www.simplilearn.com/,546,0,262
+1772684013051,6836,resources,200,OK,Thread Group 1-3,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,117,0,0
+1772684013051,117,resources-0,301,Moved Permanently,Thread Group 1-3,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,117,0,0
+1772684013169,127,resources-1,301,Moved Permanently,Thread Group 1-3,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,127,0,0
+1772684013297,6590,resources-2,200,OK,Thread Group 1-3,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,360,0,0
+1772684014201,7939,simpli,200,OK,Thread Group 1-9,text,true,,532187,242,10,10,https://www.simplilearn.com/,251,0,126
+1772684014201,251,simpli-0,301,Moved Permanently,Thread Group 1-9,text,true,,569,121,10,10,http://www.simplilearn.com/,251,0,126
+1772684014452,7688,simpli-1,200,OK,Thread Group 1-9,text,true,,531618,121,10,10,https://www.simplilearn.com/,885,0,258
+1772684010279,12891,training,200,OK,Thread Group 1-1,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,243,0,124
+1772684010279,243,training-0,301,Moved Permanently,Thread Group 1-1,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,243,0,124
+1772684010522,121,training-1,301,Moved Permanently,Thread Group 1-1,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,121,0,0
+1772684010643,12527,training-2,200,OK,Thread Group 1-1,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,991,0,0
+1772684017237,6605,resources,200,OK,Thread Group 1-2,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,253,0,127
+1772684017237,253,resources-0,301,Moved Permanently,Thread Group 1-2,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,253,0,127
+1772684017490,363,resources-1,301,Moved Permanently,Thread Group 1-2,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,363,0,244
+1772684017853,5989,resources-2,200,OK,Thread Group 1-2,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,430,0,0
+1772684011903,13465,training,200,OK,Thread Group 1-5,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,134,0,0
+1772684011903,134,training-0,301,Moved Permanently,Thread Group 1-5,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,134,0,0
+1772684012037,123,training-1,301,Moved Permanently,Thread Group 1-5,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,123,0,0
+1772684012160,13208,training-2,200,OK,Thread Group 1-5,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,291,0,0
+1772684019727,7375,resources,200,OK,Thread Group 1-8,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,127,0,0
+1772684019727,127,resources-0,301,Moved Permanently,Thread Group 1-8,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,127,0,0
+1772684019854,123,resources-1,301,Moved Permanently,Thread Group 1-8,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,123,0,0
+1772684019977,7125,resources-2,200,OK,Thread Group 1-8,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,382,0,0
+1772684014308,13494,training,200,OK,Thread Group 1-6,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,119,0,0
+1772684014308,119,training-0,301,Moved Permanently,Thread Group 1-6,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,119,0,0
+1772684014427,136,training-1,301,Moved Permanently,Thread Group 1-6,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,136,0,0
+1772684014563,13239,training-2,200,OK,Thread Group 1-6,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,933,0,0
+1772684018506,9592,simpli,200,OK,Thread Group 1-10,text,true,,532187,242,10,10,https://www.simplilearn.com/,253,0,125
+1772684018506,253,simpli-0,301,Moved Permanently,Thread Group 1-10,text,true,,569,121,10,10,http://www.simplilearn.com/,253,0,125
+1772684018759,9339,simpli-1,200,OK,Thread Group 1-10,text,true,,531618,121,10,10,https://www.simplilearn.com/,542,0,245
+1772684015506,12936,training,200,OK,Thread Group 1-7,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,129,0,0
+1772684015506,129,training-0,301,Moved Permanently,Thread Group 1-7,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,129,0,0
+1772684015635,237,training-1,301,Moved Permanently,Thread Group 1-7,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,237,0,0
+1772684015872,12570,training-2,200,OK,Thread Group 1-7,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,409,0,0
+1772684017740,11225,simpli,200,OK,Thread Group 1-4,text,true,,532187,242,10,10,https://www.simplilearn.com/,133,0,0
+1772684017740,133,simpli-0,301,Moved Permanently,Thread Group 1-4,text,true,,569,121,10,10,http://www.simplilearn.com/,133,0,0
+1772684017873,11092,simpli-1,200,OK,Thread Group 1-4,text,true,,531618,121,10,10,https://www.simplilearn.com/,707,0,0
+1772684022140,7845,resources,200,OK,Thread Group 1-9,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,132,0,0
+1772684022140,132,resources-0,301,Moved Permanently,Thread Group 1-9,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,132,0,0
+1772684022273,116,resources-1,301,Moved Permanently,Thread Group 1-9,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,116,0,0
+1772684022391,7595,resources-2,200,OK,Thread Group 1-9,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,887,0,0
+1772684019888,11983,training,200,OK,Thread Group 1-3,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,491,0,0
+1772684019888,491,training-0,301,Moved Permanently,Thread Group 1-3,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,491,0,0
+1772684020379,124,training-1,301,Moved Permanently,Thread Group 1-3,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,124,0,0
+1772684020503,11368,training-2,200,OK,Thread Group 1-3,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,209,0,0
+1772684023170,10248,simpli,200,OK,Thread Group 1-1,text,true,,532187,242,10,10,https://www.simplilearn.com/,117,0,0
+1772684023170,117,simpli-0,301,Moved Permanently,Thread Group 1-1,text,true,,569,121,10,10,http://www.simplilearn.com/,117,0,0
+1772684023287,10131,simpli-1,200,OK,Thread Group 1-1,text,true,,531618,121,10,10,https://www.simplilearn.com/,281,0,0
+1772684028100,6048,resources,200,OK,Thread Group 1-10,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,107,0,0
+1772684028100,107,resources-0,301,Moved Permanently,Thread Group 1-10,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,107,0,0
+1772684028207,422,resources-1,301,Moved Permanently,Thread Group 1-10,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,422,0,0
+1772684028629,5519,resources-2,200,OK,Thread Group 1-10,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,357,0,0
+1772684025368,9917,simpli,200,OK,Thread Group 1-5,text,true,,532187,242,10,10,https://www.simplilearn.com/,2271,0,1135
+1772684025368,2271,simpli-0,301,Moved Permanently,Thread Group 1-5,text,true,,569,121,10,10,http://www.simplilearn.com/,2271,0,1135
+1772684027639,7646,simpli-1,200,OK,Thread Group 1-5,text,true,,531618,121,10,10,https://www.simplilearn.com/,706,0,277
+1772684027104,8709,training,200,OK,Thread Group 1-8,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,145,0,0
+1772684027104,145,training-0,301,Moved Permanently,Thread Group 1-8,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,145,0,0
+1772684027249,132,training-1,301,Moved Permanently,Thread Group 1-8,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,132,0,0
+1772684027381,8432,training-2,200,OK,Thread Group 1-8,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,361,0,0
+1772684023843,13158,training,200,OK,Thread Group 1-2,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,138,0,0
+1772684023843,138,training-0,301,Moved Permanently,Thread Group 1-2,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,138,0,0
+1772684023981,129,training-1,301,Moved Permanently,Thread Group 1-2,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,129,0,0
+1772684024110,12891,training-2,200,OK,Thread Group 1-2,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,1844,0,0
+1772684027803,9908,simpli,200,OK,Thread Group 1-6,text,true,,532187,242,10,10,https://www.simplilearn.com/,132,0,0
+1772684027803,132,simpli-0,301,Moved Permanently,Thread Group 1-6,text,true,,569,121,10,10,http://www.simplilearn.com/,132,0,0
+1772684027935,9776,simpli-1,200,OK,Thread Group 1-6,text,true,,531618,121,10,10,https://www.simplilearn.com/,580,0,0
+1772684028967,9628,resources,200,OK,Thread Group 1-4,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,128,0,0
+1772684028967,128,resources-0,301,Moved Permanently,Thread Group 1-4,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,128,0,0
+1772684029095,130,resources-1,301,Moved Permanently,Thread Group 1-4,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,130,0,0
+1772684029225,9370,resources-2,200,OK,Thread Group 1-4,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,1049,0,0
+1772684031872,6933,simpli,200,OK,Thread Group 1-3,text,true,,532187,242,10,10,https://www.simplilearn.com/,140,0,0
+1772684031872,140,simpli-0,301,Moved Permanently,Thread Group 1-3,text,true,,569,121,10,10,http://www.simplilearn.com/,140,0,0
+1772684032012,6793,simpli-1,200,OK,Thread Group 1-3,text,true,,531618,121,10,10,https://www.simplilearn.com/,232,0,0
+1772684028444,11162,simpli,200,OK,Thread Group 1-7,text,true,,532187,242,10,10,https://www.simplilearn.com/,140,0,0
+1772684028444,140,simpli-0,301,Moved Permanently,Thread Group 1-7,text,true,,569,121,10,10,http://www.simplilearn.com/,140,0,0
+1772684028584,11022,simpli-1,200,OK,Thread Group 1-7,text,true,,531618,121,10,10,https://www.simplilearn.com/,433,0,0
+1772684033417,6634,resources,200,OK,Thread Group 1-1,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,134,0,0
+1772684033417,134,resources-0,301,Moved Permanently,Thread Group 1-1,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,134,0,0
+1772684033552,123,resources-1,301,Moved Permanently,Thread Group 1-1,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,123,0,0
+1772684033675,6376,resources-2,200,OK,Thread Group 1-1,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,335,0,0
+1772684035285,5087,resources,200,OK,Thread Group 1-5,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,143,0,0
+1772684035285,143,resources-0,301,Moved Permanently,Thread Group 1-5,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,143,0,0
+1772684035428,126,resources-1,301,Moved Permanently,Thread Group 1-5,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,126,0,0
+1772684035554,4818,resources-2,200,OK,Thread Group 1-5,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,373,0,0
+1772684029986,13373,training,200,OK,Thread Group 1-9,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,142,0,0
+1772684029986,142,training-0,301,Moved Permanently,Thread Group 1-9,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,142,0,0
+1772684030128,127,training-1,301,Moved Permanently,Thread Group 1-9,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,127,0,0
+1772684030255,13104,training-2,200,OK,Thread Group 1-9,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,1441,0,0
+1772684034148,9512,training,200,OK,Thread Group 1-10,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,123,0,0
+1772684034148,123,training-0,301,Moved Permanently,Thread Group 1-10,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,123,0,0
+1772684034271,132,training-1,301,Moved Permanently,Thread Group 1-10,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,132,0,0
+1772684034404,9256,training-2,200,OK,Thread Group 1-10,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,205,0,0
+1772684037711,6085,resources,200,OK,Thread Group 1-6,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,129,0,0
+1772684037711,130,resources-0,301,Moved Permanently,Thread Group 1-6,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,129,0,0
+1772684037841,128,resources-1,301,Moved Permanently,Thread Group 1-6,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,128,0,0
+1772684037970,5826,resources-2,200,OK,Thread Group 1-6,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,314,0,0
+1772684038805,5888,resources,200,OK,Thread Group 1-3,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,131,0,0
+1772684038805,131,resources-0,301,Moved Permanently,Thread Group 1-3,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,131,0,0
+1772684038936,117,resources-1,301,Moved Permanently,Thread Group 1-3,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,117,0,0
+1772684039053,5640,resources-2,200,OK,Thread Group 1-3,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,318,0,0
+1772684037000,10271,simpli,200,OK,Thread Group 1-2,text,true,,532187,242,10,10,https://www.simplilearn.com/,463,0,0
+1772684037000,463,simpli-0,301,Moved Permanently,Thread Group 1-2,text,true,,569,121,10,10,http://www.simplilearn.com/,463,0,0
+1772684037463,9808,simpli-1,200,OK,Thread Group 1-2,text,true,,531618,121,10,10,https://www.simplilearn.com/,862,0,0
+1772684035812,12238,simpli,200,OK,Thread Group 1-8,text,true,,532187,242,10,10,https://www.simplilearn.com/,136,0,0
+1772684035812,136,simpli-0,301,Moved Permanently,Thread Group 1-8,text,true,,569,121,10,10,http://www.simplilearn.com/,136,0,0
+1772684035948,12102,simpli-1,200,OK,Thread Group 1-8,text,true,,531618,121,10,10,https://www.simplilearn.com/,669,0,0
+1772684039605,9077,resources,200,OK,Thread Group 1-7,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,144,0,0
+1772684039605,144,resources-0,301,Moved Permanently,Thread Group 1-7,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,144,0,0
+1772684039749,131,resources-1,301,Moved Permanently,Thread Group 1-7,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,131,0,0
+1772684039880,8802,resources-2,200,OK,Thread Group 1-7,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,978,0,0
+1772684040373,9772,training,200,OK,Thread Group 1-5,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,141,0,0
+1772684040373,141,training-0,301,Moved Permanently,Thread Group 1-5,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,141,0,0
+1772684040514,125,training-1,301,Moved Permanently,Thread Group 1-5,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,125,0,0
+1772684040640,9505,training-2,200,OK,Thread Group 1-5,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,309,0,0
+1772684038595,11804,training,200,OK,Thread Group 1-4,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,125,0,0
+1772684038595,125,training-0,301,Moved Permanently,Thread Group 1-4,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,125,0,0
+1772684038721,127,training-1,301,Moved Permanently,Thread Group 1-4,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,127,0,0
+1772684038848,11551,training-2,200,OK,Thread Group 1-4,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,593,0,0
+1772684040054,10788,training,200,OK,Thread Group 1-1,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,116,0,0
+1772684040054,116,training-0,301,Moved Permanently,Thread Group 1-1,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,116,0,0
+1772684040170,111,training-1,301,Moved Permanently,Thread Group 1-1,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,111,0,0
+1772684040281,10561,training-2,200,OK,Thread Group 1-1,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,744,0,0
+1772684043359,7530,simpli,200,OK,Thread Group 1-9,text,true,,532187,242,10,10,https://www.simplilearn.com/,139,0,0
+1772684043359,139,simpli-0,301,Moved Permanently,Thread Group 1-9,text,true,,569,121,10,10,http://www.simplilearn.com/,139,0,0
+1772684043499,7390,simpli-1,200,OK,Thread Group 1-9,text,true,,531618,121,10,10,https://www.simplilearn.com/,440,0,0
+1772684043661,7927,simpli,200,OK,Thread Group 1-10,text,true,,532187,242,10,10,https://www.simplilearn.com/,132,0,0
+1772684043661,132,simpli-0,301,Moved Permanently,Thread Group 1-10,text,true,,569,121,10,10,http://www.simplilearn.com/,132,0,0
+1772684043793,7795,simpli-1,200,OK,Thread Group 1-10,text,true,,531618,121,10,10,https://www.simplilearn.com/,300,0,0
+1772684048051,5097,resources,200,OK,Thread Group 1-8,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,143,0,0
+1772684048051,143,resources-0,301,Moved Permanently,Thread Group 1-8,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,143,0,0
+1772684048194,111,resources-1,301,Moved Permanently,Thread Group 1-8,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,111,0,0
+1772684048305,4843,resources-2,200,OK,Thread Group 1-8,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,314,0,0
+1772684047272,7300,resources,200,OK,Thread Group 1-2,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,126,0,0
+1772684047272,126,resources-0,301,Moved Permanently,Thread Group 1-2,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,126,0,0
+1772684047398,123,resources-1,301,Moved Permanently,Thread Group 1-2,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,123,0,0
+1772684047521,7051,resources-2,200,OK,Thread Group 1-2,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,296,0,0
+1772684048682,9126,training,200,OK,Thread Group 1-7,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,117,0,0
+1772684048682,117,training-0,301,Moved Permanently,Thread Group 1-7,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,117,0,0
+1772684048800,149,training-1,301,Moved Permanently,Thread Group 1-7,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,149,0,0
+1772684048949,8859,training-2,200,OK,Thread Group 1-7,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,373,0,0
+1772684050890,6981,resources,200,OK,Thread Group 1-9,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,115,0,0
+1772684050890,115,resources-0,301,Moved Permanently,Thread Group 1-9,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,115,0,0
+1772684051006,131,resources-1,301,Moved Permanently,Thread Group 1-9,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,131,0,0
+1772684051137,6734,resources-2,200,OK,Thread Group 1-9,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,284,0,0
+1772684051589,6367,resources,200,OK,Thread Group 1-10,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,137,0,0
+1772684051589,137,resources-0,301,Moved Permanently,Thread Group 1-10,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,137,0,0
+1772684051726,133,resources-1,301,Moved Permanently,Thread Group 1-10,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,133,0,0
+1772684051860,6096,resources-2,200,OK,Thread Group 1-10,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,292,0,0
+1772684043796,14338,training,200,OK,Thread Group 1-6,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,128,0,0
+1772684043796,128,training-0,301,Moved Permanently,Thread Group 1-6,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,128,0,0
+1772684043924,122,training-1,301,Moved Permanently,Thread Group 1-6,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,122,0,0
+1772684044046,14088,training-2,200,OK,Thread Group 1-6,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,473,0,0
+1772684050146,9446,simpli,200,OK,Thread Group 1-5,text,true,,532187,242,10,10,https://www.simplilearn.com/,130,0,0
+1772684050146,130,simpli-0,301,Moved Permanently,Thread Group 1-5,text,true,,569,121,10,10,http://www.simplilearn.com/,130,0,0
+1772684050276,9316,simpli-1,200,OK,Thread Group 1-5,text,true,,531618,121,10,10,https://www.simplilearn.com/,297,0,0
+1772684050399,10310,simpli,200,OK,Thread Group 1-4,text,true,,532187,242,10,10,https://www.simplilearn.com/,124,0,0
+1772684050399,124,simpli-0,301,Moved Permanently,Thread Group 1-4,text,true,,569,121,10,10,http://www.simplilearn.com/,124,0,0
+1772684050523,10186,simpli-1,200,OK,Thread Group 1-4,text,true,,531618,121,10,10,https://www.simplilearn.com/,457,0,0
+1772684044693,16589,training,200,OK,Thread Group 1-3,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,144,0,0
+1772684044693,144,training-0,301,Moved Permanently,Thread Group 1-3,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,144,0,0
+1772684044837,132,training-1,301,Moved Permanently,Thread Group 1-3,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,132,0,0
+1772684044969,16313,training-2,200,OK,Thread Group 1-3,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,530,0,0
+1772684053149,8241,training,200,OK,Thread Group 1-8,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,129,0,0
+1772684053149,129,training-0,301,Moved Permanently,Thread Group 1-8,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,129,0,0
+1772684053278,133,training-1,301,Moved Permanently,Thread Group 1-8,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,133,0,0
+1772684053411,7979,training-2,200,OK,Thread Group 1-8,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,597,0,0
+1772684060711,5142,resources,200,OK,Thread Group 1-4,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,409,0,293
+1772684060711,409,resources-0,301,Moved Permanently,Thread Group 1-4,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,409,0,293
+1772684061120,358,resources-1,301,Moved Permanently,Thread Group 1-4,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,358,0,239
+1772684061478,4375,resources-2,200,OK,Thread Group 1-4,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,306,0,0
+1772684059594,6441,resources,200,OK,Thread Group 1-5,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,334,0,0
+1772684059594,334,resources-0,301,Moved Permanently,Thread Group 1-5,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,334,0,0
+1772684059928,130,resources-1,301,Moved Permanently,Thread Group 1-5,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,130,0,0
+1772684060058,5977,resources-2,200,OK,Thread Group 1-5,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,574,0,0
+1772684054573,11484,training,200,OK,Thread Group 1-2,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,136,0,0
+1772684054573,136,training-0,301,Moved Permanently,Thread Group 1-2,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,136,0,0
+1772684054709,129,training-1,301,Moved Permanently,Thread Group 1-2,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,129,0,0
+1772684054838,11219,training-2,200,OK,Thread Group 1-2,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,1069,0,0
+1772684057810,10092,simpli,200,OK,Thread Group 1-7,text,true,,532187,242,10,10,https://www.simplilearn.com/,124,0,0
+1772684057810,124,simpli-0,301,Moved Permanently,Thread Group 1-7,text,true,,569,121,10,10,http://www.simplilearn.com/,124,0,0
+1772684057934,9968,simpli-1,200,OK,Thread Group 1-7,text,true,,531618,121,10,10,https://www.simplilearn.com/,264,0,0
+1772684057872,10494,training,200,OK,Thread Group 1-9,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,118,0,0
+1772684057872,118,training-0,301,Moved Permanently,Thread Group 1-9,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,118,0,0
+1772684057990,108,training-1,301,Moved Permanently,Thread Group 1-9,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,108,0,0
+1772684058098,10268,training-2,200,OK,Thread Group 1-9,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,387,0,0
+1772684050843,17904,simpli,200,OK,Thread Group 1-1,text,true,,532187,242,10,10,https://www.simplilearn.com/,124,0,0
+1772684050843,124,simpli-0,301,Moved Permanently,Thread Group 1-1,text,true,,569,121,10,10,http://www.simplilearn.com/,124,0,0
+1772684050967,17780,simpli-1,200,OK,Thread Group 1-1,text,true,,531618,121,10,10,https://www.simplilearn.com/,276,0,0
+1772684058136,10976,simpli,200,OK,Thread Group 1-6,text,true,,532187,242,10,10,https://www.simplilearn.com/,811,0,0
+1772684058136,811,simpli-0,301,Moved Permanently,Thread Group 1-6,text,true,,569,121,10,10,http://www.simplilearn.com/,811,0,0
+1772684058947,10165,simpli-1,200,OK,Thread Group 1-6,text,true,,531618,121,10,10,https://www.simplilearn.com/,638,0,0
+1772684061283,8943,simpli,200,OK,Thread Group 1-3,text,true,,532187,242,10,10,https://www.simplilearn.com/,135,0,0
+1772684061283,135,simpli-0,301,Moved Permanently,Thread Group 1-3,text,true,,569,121,10,10,http://www.simplilearn.com/,135,0,0
+1772684061418,8808,simpli-1,200,OK,Thread Group 1-3,text,true,,531618,121,10,10,https://www.simplilearn.com/,345,0,0
+1772684057957,13533,training,200,OK,Thread Group 1-10,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,114,0,0
+1772684057957,114,training-0,301,Moved Permanently,Thread Group 1-10,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,114,0,0
+1772684058072,673,training-1,301,Moved Permanently,Thread Group 1-10,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,673,0,0
+1772684058746,12744,training-2,200,OK,Thread Group 1-10,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,483,0,0
+1772684068749,4413,resources,200,OK,Thread Group 1-1,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,129,0,0
+1772684068749,129,resources-0,301,Moved Permanently,Thread Group 1-1,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,129,0,0
+1772684068878,745,resources-1,301,Moved Permanently,Thread Group 1-1,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,745,0,235
+1772684069623,3539,resources-2,200,OK,Thread Group 1-1,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,279,0,0
+1772684067902,5582,resources,200,OK,Thread Group 1-7,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,248,0,127
+1772684067902,248,resources-0,301,Moved Permanently,Thread Group 1-7,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,248,0,127
+1772684068150,711,resources-1,301,Moved Permanently,Thread Group 1-7,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,711,0,584
+1772684068861,4623,resources-2,200,OK,Thread Group 1-7,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,268,0,0
+1772684066035,8511,training,200,OK,Thread Group 1-5,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,138,0,0
+1772684066035,138,training-0,301,Moved Permanently,Thread Group 1-5,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,138,0,0
+1772684066173,126,training-1,301,Moved Permanently,Thread Group 1-5,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,126,0,0
+1772684066299,8247,training-2,200,OK,Thread Group 1-5,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,292,0,0
+1772684069113,5772,resources,200,OK,Thread Group 1-6,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,252,0,128
+1772684069113,252,resources-0,301,Moved Permanently,Thread Group 1-6,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,252,0,128
+1772684069365,691,resources-1,301,Moved Permanently,Thread Group 1-6,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,691,0,560
+1772684070056,4829,resources-2,200,OK,Thread Group 1-6,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,414,0,0
+1772684061392,13634,simpli,200,OK,Thread Group 1-8,text,true,,532187,242,10,10,https://www.simplilearn.com/,131,0,0
+1772684061392,131,simpli-0,301,Moved Permanently,Thread Group 1-8,text,true,,569,121,10,10,http://www.simplilearn.com/,131,0,0
+1772684061523,13503,simpli-1,200,OK,Thread Group 1-8,text,true,,531618,121,10,10,https://www.simplilearn.com/,754,0,0
+1772684066059,11966,simpli,200,OK,Thread Group 1-2,text,true,,532187,242,10,10,https://www.simplilearn.com/,139,0,0
+1772684066059,139,simpli-0,301,Moved Permanently,Thread Group 1-2,text,true,,569,121,10,10,http://www.simplilearn.com/,139,0,0
+1772684066199,11826,simpli-1,200,OK,Thread Group 1-2,text,true,,531618,121,10,10,https://www.simplilearn.com/,491,0,0
+1772684065854,12241,training,200,OK,Thread Group 1-4,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,114,0,0
+1772684065854,114,training-0,301,Moved Permanently,Thread Group 1-4,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,114,0,0
+1772684065968,125,training-1,301,Moved Permanently,Thread Group 1-4,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,125,0,0
+1772684066093,12002,training-2,200,OK,Thread Group 1-4,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,525,0,0
+1772684070228,9907,resources,200,OK,Thread Group 1-3,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,237,0,111
+1772684070228,237,resources-0,301,Moved Permanently,Thread Group 1-3,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,237,0,111
+1772684070465,1373,resources-1,301,Moved Permanently,Thread Group 1-3,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,1373,0,1245
+1772684071838,8297,resources-2,200,OK,Thread Group 1-3,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,437,0,0
+1772684068367,12223,simpli,200,OK,Thread Group 1-9,text,true,,532187,242,10,10,https://www.simplilearn.com/,107,0,0
+1772684068367,107,simpli-0,301,Moved Permanently,Thread Group 1-9,text,true,,569,121,10,10,http://www.simplilearn.com/,107,0,0
+1772684068474,12116,simpli-1,200,OK,Thread Group 1-9,text,true,,531618,121,10,10,https://www.simplilearn.com/,1176,0,0
+1772684075026,8307,resources,200,OK,Thread Group 1-8,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,232,0,106
+1772684075026,232,resources-0,301,Moved Permanently,Thread Group 1-8,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,232,0,106
+1772684075258,1696,resources-1,301,Moved Permanently,Thread Group 1-8,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,1696,0,1265
+1772684076954,6379,resources-2,200,OK,Thread Group 1-8,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,455,0,0
+1772684073163,10506,training,200,OK,Thread Group 1-1,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,238,0,124
+1772684073163,238,training-0,301,Moved Permanently,Thread Group 1-1,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,238,0,124
+1772684073402,125,training-1,301,Moved Permanently,Thread Group 1-1,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,125,0,0
+1772684073527,10142,training-2,200,OK,Thread Group 1-1,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,1324,0,0
+1772684078025,6566,resources,200,OK,Thread Group 1-2,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,244,0,115
+1772684078025,244,resources-0,301,Moved Permanently,Thread Group 1-2,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,244,0,115
+1772684078269,390,resources-1,301,Moved Permanently,Thread Group 1-2,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,390,0,261
+1772684078659,5932,resources-2,200,OK,Thread Group 1-2,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,279,0,0
+1772684074547,10950,simpli,200,OK,Thread Group 1-5,text,true,,532187,242,10,10,https://www.simplilearn.com/,121,0,0
+1772684074547,121,simpli-0,301,Moved Permanently,Thread Group 1-5,text,true,,569,121,10,10,http://www.simplilearn.com/,121,0,0
+1772684074668,10829,simpli-1,200,OK,Thread Group 1-5,text,true,,531618,121,10,10,https://www.simplilearn.com/,495,0,0
+1772684073484,12332,training,200,OK,Thread Group 1-7,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,137,0,0
+1772684073484,137,training-0,301,Moved Permanently,Thread Group 1-7,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,137,0,0
+1772684073621,115,training-1,301,Moved Permanently,Thread Group 1-7,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,115,0,0
+1772684073736,12080,training-2,200,OK,Thread Group 1-7,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,856,0,0
+1772684080591,5457,resources,200,OK,Thread Group 1-9,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,229,0,114
+1772684080591,229,resources-0,301,Moved Permanently,Thread Group 1-9,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,229,0,114
+1772684080820,369,resources-1,301,Moved Permanently,Thread Group 1-9,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,369,0,247
+1772684081189,4859,resources-2,200,OK,Thread Group 1-9,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,311,0,0
+1772684071490,15907,simpli,200,OK,Thread Group 1-10,text,true,,532187,242,10,10,https://www.simplilearn.com/,134,0,0
+1772684071490,134,simpli-0,301,Moved Permanently,Thread Group 1-10,text,true,,569,121,10,10,http://www.simplilearn.com/,134,0,0
+1772684071624,15773,simpli-1,200,OK,Thread Group 1-10,text,true,,531618,121,10,10,https://www.simplilearn.com/,1129,0,0
+1772684074885,12798,training,200,OK,Thread Group 1-6,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,132,0,0
+1772684074885,132,training-0,301,Moved Permanently,Thread Group 1-6,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,132,0,0
+1772684075017,110,training-1,301,Moved Permanently,Thread Group 1-6,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,110,0,0
+1772684075127,12556,training-2,200,OK,Thread Group 1-6,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,438,0,0
+1772684080136,8420,training,200,OK,Thread Group 1-3,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,136,0,0
+1772684080136,136,training-0,301,Moved Permanently,Thread Group 1-3,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,136,0,0
+1772684080272,114,training-1,301,Moved Permanently,Thread Group 1-3,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,114,0,0
+1772684080386,8170,training-2,200,OK,Thread Group 1-3,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,274,0,0
+1772684078096,11304,simpli,200,OK,Thread Group 1-4,text,true,,532187,242,10,10,https://www.simplilearn.com/,121,0,0
+1772684078096,121,simpli-0,301,Moved Permanently,Thread Group 1-4,text,true,,569,121,10,10,http://www.simplilearn.com/,121,0,0
+1772684078217,11183,simpli-1,200,OK,Thread Group 1-4,text,true,,531618,121,10,10,https://www.simplilearn.com/,1014,0,0
+1772684085497,5929,resources,200,OK,Thread Group 1-5,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,254,0,130
+1772684085497,254,resources-0,301,Moved Permanently,Thread Group 1-5,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,254,0,130
+1772684085751,104,resources-1,301,Moved Permanently,Thread Group 1-5,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,104,0,0
+1772684085855,5571,resources-2,200,OK,Thread Group 1-5,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,362,0,0
+1772684087396,5718,resources,200,OK,Thread Group 1-10,text,true,,312056,392,10,10,https://www.simplilearn.com/resources,232,0,117
+1772684087396,232,resources-0,301,Moved Permanently,Thread Group 1-10,text,true,,579,131,10,10,http://www.simplilearn.com/resources/,232,0,117
+1772684087628,376,resources-1,301,Moved Permanently,Thread Group 1-10,text,true,,452,131,10,10,https://www.simplilearn.com/resources/,376,0,253
+1772684088005,5109,resources-2,200,OK,Thread Group 1-10,text,true,,311025,130,10,10,https://www.simplilearn.com/resources,292,0,0
+1772684086048,8529,training,200,OK,Thread Group 1-9,text,true,,551487,419,10,10,https://www.simplilearn.com/corporate-training,143,0,0
+1772684086048,143,training-0,301,Moved Permanently,Thread Group 1-9,text,true,,588,140,10,10,http://www.simplilearn.com/corporate-training/,143,0,0
+1772684086191,130,training-1,301,Moved Permanently,Thread Group 1-9,text,true,,996,140,10,10,https://www.simplilearn.com/corporate-training/,130,0,0
+1772684086321,8256,training-2,200,OK,Thread Group 1-9,text,true,,549903,139,10,10,https://www.simplilearn.com/corporate-training,367,0,0
+1772684083669,11233,simpli,200,OK,Thread Group 1-1,text,true,,532187,242,9,9,https://www.simplilearn.com/,137,0,0
+1772684083669,138,simpli-0,301,Moved Permanently,Thread Group 1-1,text,true,,569,121,9,9,http://www.simplilearn.com/,137,0,0
+1772684083807,11095,simpli-1,200,OK,Thread Group 1-1,text,true,,531618,121,9,9,https://www.simplilearn.com/,435,0,0
+1772684083333,12165,training,200,OK,Thread Group 1-8,text,true,,551487,419,9,9,https://www.simplilearn.com/corporate-training,137,0,0
+1772684083333,137,training-0,301,Moved Permanently,Thread Group 1-8,text,true,,588,140,9,9,http://www.simplilearn.com/corporate-training/,137,0,0
+1772684083470,111,training-1,301,Moved Permanently,Thread Group 1-8,text,true,,996,140,9,9,https://www.simplilearn.com/corporate-training/,111,0,0
+1772684083581,11917,training-2,200,OK,Thread Group 1-8,text,true,,549903,139,9,9,https://www.simplilearn.com/corporate-training,340,0,0
+1772684089400,7246,resources,200,OK,Thread Group 1-4,text,true,,312056,392,9,9,https://www.simplilearn.com/resources,130,0,0
+1772684089400,130,resources-0,301,Moved Permanently,Thread Group 1-4,text,true,,579,131,9,9,http://www.simplilearn.com/resources/,130,0,0
+1772684089530,125,resources-1,301,Moved Permanently,Thread Group 1-4,text,true,,452,131,9,9,https://www.simplilearn.com/resources/,125,0,0
+1772684089655,6991,resources-2,200,OK,Thread Group 1-4,text,true,,311025,130,9,9,https://www.simplilearn.com/resources,289,0,0
+1772684084591,12371,training,200,OK,Thread Group 1-2,text,true,,551487,419,9,9,https://www.simplilearn.com/corporate-training,119,0,0
+1772684084591,119,training-0,301,Moved Permanently,Thread Group 1-2,text,true,,588,140,9,9,http://www.simplilearn.com/corporate-training/,119,0,0
+1772684084710,122,training-1,301,Moved Permanently,Thread Group 1-2,text,true,,996,140,9,9,https://www.simplilearn.com/corporate-training/,122,0,0
+1772684084832,12130,training-2,200,OK,Thread Group 1-2,text,true,,549903,139,9,9,https://www.simplilearn.com/corporate-training,541,0,0
+1772684087683,9486,simpli,200,OK,Thread Group 1-6,text,true,,532187,242,9,9,https://www.simplilearn.com/,132,0,0
+1772684087683,132,simpli-0,301,Moved Permanently,Thread Group 1-6,text,true,,569,121,9,9,http://www.simplilearn.com/,132,0,0
+1772684087816,9353,simpli-1,200,OK,Thread Group 1-6,text,true,,531618,121,9,9,https://www.simplilearn.com/,526,0,0
+1772684088555,9547,simpli,200,OK,Thread Group 1-3,text,true,,532187,242,9,9,https://www.simplilearn.com/,125,0,0
+1772684088555,125,simpli-0,301,Moved Permanently,Thread Group 1-3,text,true,,569,121,9,9,http://www.simplilearn.com/,125,0,0
+1772684088680,9422,simpli-1,200,OK,Thread Group 1-3,text,true,,531618,121,9,9,https://www.simplilearn.com/,362,0,0
+1772684091425,7243,training,200,OK,Thread Group 1-5,text,true,,551487,419,9,9,https://www.simplilearn.com/corporate-training,134,0,0
+1772684091425,134,training-0,301,Moved Permanently,Thread Group 1-5,text,true,,588,140,9,9,http://www.simplilearn.com/corporate-training/,134,0,0
+1772684091559,365,training-1,301,Moved Permanently,Thread Group 1-5,text,true,,996,140,9,9,https://www.simplilearn.com/corporate-training/,365,0,243
+1772684091924,6744,training-2,200,OK,Thread Group 1-5,text,true,,549903,139,9,9,https://www.simplilearn.com/corporate-training,630,0,0
+1772684094903,4426,resources,200,OK,Thread Group 1-1,text,true,,312056,392,9,9,https://www.simplilearn.com/resources,454,0,0
+1772684094903,454,resources-0,301,Moved Permanently,Thread Group 1-1,text,true,,579,131,9,9,http://www.simplilearn.com/resources/,454,0,0
+1772684095358,120,resources-1,301,Moved Permanently,Thread Group 1-1,text,true,,452,131,9,9,https://www.simplilearn.com/resources/,120,0,0
+1772684095478,3851,resources-2,200,OK,Thread Group 1-1,text,true,,311025,130,9,9,https://www.simplilearn.com/resources,272,0,0
+1772684085816,15576,simpli,200,OK,Thread Group 1-7,text,true,,532187,242,9,9,https://www.simplilearn.com/,100,0,0
+1772684085816,100,simpli-0,301,Moved Permanently,Thread Group 1-7,text,true,,569,121,9,9,http://www.simplilearn.com/,100,0,0
+1772684085916,15476,simpli-1,200,OK,Thread Group 1-7,text,true,,531618,121,9,9,https://www.simplilearn.com/,538,0,0
+1772684093115,8805,training,200,OK,Thread Group 1-10,text,true,,551487,419,9,9,https://www.simplilearn.com/corporate-training,138,0,0
+1772684093115,138,training-0,301,Moved Permanently,Thread Group 1-10,text,true,,588,140,9,9,http://www.simplilearn.com/corporate-training/,138,0,0
+1772684093254,115,training-1,301,Moved Permanently,Thread Group 1-10,text,true,,996,140,9,9,https://www.simplilearn.com/corporate-training/,115,0,0
+1772684093369,8551,training-2,200,OK,Thread Group 1-10,text,true,,549903,139,9,9,https://www.simplilearn.com/corporate-training,383,0,0
+1772684097170,5436,resources,200,OK,Thread Group 1-6,text,true,,312056,392,9,9,https://www.simplilearn.com/resources,132,0,0
+1772684097170,132,resources-0,301,Moved Permanently,Thread Group 1-6,text,true,,579,131,9,9,http://www.simplilearn.com/resources/,132,0,0
+1772684097302,124,resources-1,301,Moved Permanently,Thread Group 1-6,text,true,,452,131,9,9,https://www.simplilearn.com/resources/,124,0,0
+1772684097426,5180,resources-2,200,OK,Thread Group 1-6,text,true,,311025,130,9,9,https://www.simplilearn.com/resources,368,0,0
+1772684098103,5619,resources,200,OK,Thread Group 1-3,text,true,,312056,392,9,9,https://www.simplilearn.com/resources,134,0,0
+1772684098103,134,resources-0,301,Moved Permanently,Thread Group 1-3,text,true,,579,131,9,9,http://www.simplilearn.com/resources/,134,0,0
+1772684098237,126,resources-1,301,Moved Permanently,Thread Group 1-3,text,true,,452,131,9,9,https://www.simplilearn.com/resources/,126,0,0
+1772684098363,5359,resources-2,200,OK,Thread Group 1-3,text,true,,311025,130,9,9,https://www.simplilearn.com/resources,374,0,0
+1772684096963,8503,simpli,200,OK,Thread Group 1-2,text,true,,532187,242,9,9,https://www.simplilearn.com/,123,0,0
+1772684096963,123,simpli-0,301,Moved Permanently,Thread Group 1-2,text,true,,569,121,9,9,http://www.simplilearn.com/,123,0,0
+1772684097086,8380,simpli-1,200,OK,Thread Group 1-2,text,true,,531618,121,9,9,https://www.simplilearn.com/,361,0,0
+1772684095498,10598,simpli,200,OK,Thread Group 1-8,text,true,,532187,242,9,9,https://www.simplilearn.com/,131,0,0
+1772684095498,131,simpli-0,301,Moved Permanently,Thread Group 1-8,text,true,,569,121,9,9,http://www.simplilearn.com/,131,0,0
+1772684095629,10467,simpli-1,200,OK,Thread Group 1-8,text,true,,531618,121,9,9,https://www.simplilearn.com/,295,0,0
+1772684098670,7942,simpli,200,OK,Thread Group 1-5,text,true,,532187,242,9,9,https://www.simplilearn.com/,145,0,0
+1772684098670,145,simpli-0,301,Moved Permanently,Thread Group 1-5,text,true,,569,121,9,9,http://www.simplilearn.com/,145,0,0
+1772684098816,7796,simpli-1,200,OK,Thread Group 1-5,text,true,,531618,121,9,9,https://www.simplilearn.com/,451,0,0
+1772684096647,10552,training,200,OK,Thread Group 1-4,text,true,,551487,419,9,9,https://www.simplilearn.com/corporate-training,135,0,0
+1772684096647,135,training-0,301,Moved Permanently,Thread Group 1-4,text,true,,588,140,9,9,http://www.simplilearn.com/corporate-training/,135,0,0
+1772684096782,114,training-1,301,Moved Permanently,Thread Group 1-4,text,true,,996,140,9,9,https://www.simplilearn.com/corporate-training/,114,0,0
+1772684096897,10302,training-2,200,OK,Thread Group 1-4,text,true,,549903,139,9,9,https://www.simplilearn.com/corporate-training,203,0,0
+1772684099330,9575,training,200,OK,Thread Group 1-1,text,true,,551487,419,9,9,https://www.simplilearn.com/corporate-training,116,0,0
+1772684099330,116,training-0,301,Moved Permanently,Thread Group 1-1,text,true,,588,140,9,9,http://www.simplilearn.com/corporate-training/,116,0,0
+1772684099446,123,training-1,301,Moved Permanently,Thread Group 1-1,text,true,,996,140,9,9,https://www.simplilearn.com/corporate-training/,123,0,0
+1772684099569,9336,training-2,200,OK,Thread Group 1-1,text,true,,549903,139,9,9,https://www.simplilearn.com/corporate-training,364,0,0
+1772684106096,5456,resources,200,OK,Thread Group 1-8,text,true,,312056,392,8,8,https://www.simplilearn.com/resources,124,0,0
+1772684106096,124,resources-0,301,Moved Permanently,Thread Group 1-8,text,true,,579,131,8,8,http://www.simplilearn.com/resources/,124,0,0
+1772684106220,128,resources-1,301,Moved Permanently,Thread Group 1-8,text,true,,452,131,8,8,https://www.simplilearn.com/resources/,128,0,0
+1772684106349,5203,resources-2,200,OK,Thread Group 1-8,text,true,,311025,130,8,8,https://www.simplilearn.com/resources,440,0,0
+1772684106612,5024,resources,200,OK,Thread Group 1-5,text,true,,312056,392,8,8,https://www.simplilearn.com/resources,125,0,0
+1772684106612,125,resources-0,301,Moved Permanently,Thread Group 1-5,text,true,,579,131,8,8,http://www.simplilearn.com/resources/,125,0,0
+1772684106738,128,resources-1,301,Moved Permanently,Thread Group 1-5,text,true,,452,131,8,8,https://www.simplilearn.com/resources/,128,0,0
+1772684106866,4770,resources-2,200,OK,Thread Group 1-5,text,true,,311025,130,8,8,https://www.simplilearn.com/resources,484,0,0
+1772684101394,11141,resources,200,OK,Thread Group 1-7,text,true,,312056,392,8,8,https://www.simplilearn.com/resources,113,0,0
+1772684101394,113,resources-0,301,Moved Permanently,Thread Group 1-7,text,true,,579,131,8,8,http://www.simplilearn.com/resources/,113,0,0
+1772684101507,110,resources-1,301,Moved Permanently,Thread Group 1-7,text,true,,452,131,8,8,https://www.simplilearn.com/resources/,110,0,0
+1772684101617,10918,resources-2,200,OK,Thread Group 1-7,text,true,,311025,130,8,8,https://www.simplilearn.com/resources,1256,0,0
+1772684101920,10764,simpli,200,OK,Thread Group 1-10,text,true,,532187,242,8,8,https://www.simplilearn.com/,126,0,0
+1772684101920,126,simpli-0,301,Moved Permanently,Thread Group 1-10,text,true,,569,121,8,8,http://www.simplilearn.com/,126,0,0
+1772684102046,10638,simpli-1,200,OK,Thread Group 1-10,text,true,,531618,121,8,8,https://www.simplilearn.com/,318,0,0
+1772684105466,8172,resources,200,OK,Thread Group 1-2,text,true,,312056,392,8,8,https://www.simplilearn.com/resources,136,0,0
+1772684105466,136,resources-0,301,Moved Permanently,Thread Group 1-2,text,true,,579,131,8,8,http://www.simplilearn.com/resources/,136,0,0
+1772684105602,129,resources-1,301,Moved Permanently,Thread Group 1-2,text,true,,452,131,8,8,https://www.simplilearn.com/resources/,129,0,0
+1772684105731,7907,resources-2,200,OK,Thread Group 1-2,text,true,,311025,130,8,8,https://www.simplilearn.com/resources,1147,0,0
+1772684102606,11716,training,200,OK,Thread Group 1-6,text,true,,551487,419,8,8,https://www.simplilearn.com/corporate-training,129,0,0
+1772684102606,129,training-0,301,Moved Permanently,Thread Group 1-6,text,true,,588,140,8,8,http://www.simplilearn.com/corporate-training/,129,0,0
+1772684102735,122,training-1,301,Moved Permanently,Thread Group 1-6,text,true,,996,140,8,8,https://www.simplilearn.com/corporate-training/,122,0,0
+1772684102857,11465,training-2,200,OK,Thread Group 1-6,text,true,,549903,139,8,8,https://www.simplilearn.com/corporate-training,363,0,0
+1772684103722,10845,training,200,OK,Thread Group 1-3,text,true,,551487,419,7,7,https://www.simplilearn.com/corporate-training,127,0,0
+1772684103722,127,training-0,301,Moved Permanently,Thread Group 1-3,text,true,,588,140,7,7,http://www.simplilearn.com/corporate-training/,127,0,0
+1772684103849,132,training-1,301,Moved Permanently,Thread Group 1-3,text,true,,996,140,7,7,https://www.simplilearn.com/corporate-training/,132,0,0
+1772684103981,10586,training-2,200,OK,Thread Group 1-3,text,true,,549903,139,7,7,https://www.simplilearn.com/corporate-training,371,0,0
+1772684107199,9220,simpli,200,OK,Thread Group 1-4,text,true,,532187,242,6,6,https://www.simplilearn.com/,119,0,0
+1772684107199,119,simpli-0,301,Moved Permanently,Thread Group 1-4,text,true,,569,121,6,6,http://www.simplilearn.com/,119,0,0
+1772684107318,9101,simpli-1,200,OK,Thread Group 1-4,text,true,,531618,121,6,6,https://www.simplilearn.com/,332,0,0
+1772684112684,4832,resources,200,OK,Thread Group 1-10,text,true,,312056,392,6,6,https://www.simplilearn.com/resources,414,0,0
+1772684112684,414,resources-0,301,Moved Permanently,Thread Group 1-10,text,true,,579,131,6,6,http://www.simplilearn.com/resources/,414,0,0
+1772684113098,125,resources-1,301,Moved Permanently,Thread Group 1-10,text,true,,452,131,6,6,https://www.simplilearn.com/resources/,125,0,0
+1772684113223,4293,resources-2,200,OK,Thread Group 1-10,text,true,,311025,130,6,6,https://www.simplilearn.com/resources,359,0,0
+1772684112535,8048,training,200,OK,Thread Group 1-7,text,true,,551487,419,6,6,https://www.simplilearn.com/corporate-training,144,0,0
+1772684112535,144,training-0,301,Moved Permanently,Thread Group 1-7,text,true,,588,140,6,6,http://www.simplilearn.com/corporate-training/,144,0,0
+1772684112679,128,training-1,301,Moved Permanently,Thread Group 1-7,text,true,,996,140,6,6,https://www.simplilearn.com/corporate-training/,128,0,0
+1772684112807,7776,training-2,200,OK,Thread Group 1-7,text,true,,549903,139,6,6,https://www.simplilearn.com/corporate-training,359,0,0
+1772684111553,9502,training,200,OK,Thread Group 1-8,text,true,,551487,419,5,5,https://www.simplilearn.com/corporate-training,131,0,0
+1772684111553,131,training-0,301,Moved Permanently,Thread Group 1-8,text,true,,588,140,5,5,http://www.simplilearn.com/corporate-training/,131,0,0
+1772684111684,116,training-1,301,Moved Permanently,Thread Group 1-8,text,true,,996,140,5,5,https://www.simplilearn.com/corporate-training/,116,0,0
+1772684111800,9255,training-2,200,OK,Thread Group 1-8,text,true,,549903,139,5,5,https://www.simplilearn.com/corporate-training,678,0,0
+1772684113639,8534,training,200,OK,Thread Group 1-2,text,true,,551487,419,4,4,https://www.simplilearn.com/corporate-training,123,0,0
+1772684113639,123,training-0,301,Moved Permanently,Thread Group 1-2,text,true,,588,140,4,4,http://www.simplilearn.com/corporate-training/,123,0,0
+1772684113762,123,training-1,301,Moved Permanently,Thread Group 1-2,text,true,,996,140,4,4,https://www.simplilearn.com/corporate-training/,123,0,0
+1772684113885,8288,training-2,200,OK,Thread Group 1-2,text,true,,549903,139,4,4,https://www.simplilearn.com/corporate-training,420,0,0
+1772684116419,6305,resources,200,OK,Thread Group 1-4,text,true,,312056,392,3,3,https://www.simplilearn.com/resources,135,0,0
+1772684116419,135,resources-0,301,Moved Permanently,Thread Group 1-4,text,true,,579,131,3,3,http://www.simplilearn.com/resources/,135,0,0
+1772684116554,125,resources-1,301,Moved Permanently,Thread Group 1-4,text,true,,452,131,3,3,https://www.simplilearn.com/resources/,125,0,0
+1772684116679,6045,resources-2,200,OK,Thread Group 1-4,text,true,,311025,130,3,3,https://www.simplilearn.com/resources,716,0,0
+1772684117516,7171,training,200,OK,Thread Group 1-10,text,true,,551487,419,3,3,https://www.simplilearn.com/corporate-training,120,0,0
+1772684117516,120,training-0,301,Moved Permanently,Thread Group 1-10,text,true,,588,140,3,3,http://www.simplilearn.com/corporate-training/,120,0,0
+1772684117636,125,training-1,301,Moved Permanently,Thread Group 1-10,text,true,,996,140,3,3,https://www.simplilearn.com/corporate-training/,125,0,0
+1772684117761,6926,training-2,200,OK,Thread Group 1-10,text,true,,549903,139,3,3,https://www.simplilearn.com/corporate-training,364,0,0
+1772684111636,15555,training,200,OK,Thread Group 1-5,text,true,,551487,419,2,2,https://www.simplilearn.com/corporate-training,136,0,0
+1772684111636,136,training-0,301,Moved Permanently,Thread Group 1-5,text,true,,588,140,2,2,http://www.simplilearn.com/corporate-training/,136,0,0
+1772684111772,112,training-1,301,Moved Permanently,Thread Group 1-5,text,true,,996,140,2,2,https://www.simplilearn.com/corporate-training/,112,0,0
+1772684111884,15307,training-2,200,OK,Thread Group 1-5,text,true,,549903,139,2,2,https://www.simplilearn.com/corporate-training,319,0,0
+1772684122723,9513,training,200,OK,Thread Group 1-4,text,true,,551487,419,1,1,https://www.simplilearn.com/corporate-training,344,0,240
+1772684122723,344,training-0,301,Moved Permanently,Thread Group 1-4,text,true,,588,140,1,1,http://www.simplilearn.com/corporate-training/,344,0,240
+1772684123067,357,training-1,301,Moved Permanently,Thread Group 1-4,text,true,,996,140,1,1,https://www.simplilearn.com/corporate-training/,357,0,225
+1772684123424,8812,training-2,200,OK,Thread Group 1-4,text,true,,549903,139,1,1,https://www.simplilearn.com/corporate-training,432,0,0
